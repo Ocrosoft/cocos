@@ -1,0 +1,23 @@
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\bin\TestCocosProject.ap_ \
+ : C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\res\drawable-hdpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\res\drawable-ldpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\res\drawable-mdpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\res\values\strings.xml \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\bin\res\drawable-hdpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\bin\res\drawable-ldpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\bin\res\drawable-mdpi\icon.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\arrow.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\background.jpg \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\border.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\button1.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\monster.plist \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\monster.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\OprUI0.plist \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\OprUI0.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\OprUI_1.ExportJson \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\player.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\res \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\tg1.tmx \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\res\HelloWorld.png \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\assets\res\MainScene.csb \
+C:\Users\qazws\OneDrive\CocosProj\TestCocosProject\proj.android\bin\AndroidManifest.xml \

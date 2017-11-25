@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="80" tilewidth="10" tileheight="10" nextobjectid="13">
+ <tileset firstgid="3841" name="monster" tilewidth="10" tileheight="10" tilecount="144" columns="12">
+ </tileset>
+ <objectgroup name="monster">
+  <object id="1" name="monster" x="120.667" y="251" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="0"/>
+   </properties>
+  </object>
+  <object id="4" name="monster" x="240.833" y="250.167" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="1"/>
+   </properties>
+  </object>
+  <object id="6" name="monster" x="360.833" y="250.833" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="2"/>
+   </properties>
+  </object>
+  <object id="7" name="monster" x="120.167" y="410.5" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="3"/>
+   </properties>
+  </object>
+  <object id="8" name="monster" x="361.167" y="410.5" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="4"/>
+   </properties>
+  </object>
+  <object id="9" name="monster" x="121.167" y="570.833" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="5"/>
+   </properties>
+  </object>
+  <object id="10" name="monster" x="240.833" y="570.833" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="6"/>
+   </properties>
+  </object>
+  <object id="11" name="monster" x="360.167" y="570.167" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="0"/>
+    <property name="showTime" value="7"/>
+   </properties>
+  </object>
+  <object id="12" name="monster" x="240.833" y="411.5" width="19.6667" height="19.6667">
+   <properties>
+    <property name="id" value="1"/>
+    <property name="showTime" value="10"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

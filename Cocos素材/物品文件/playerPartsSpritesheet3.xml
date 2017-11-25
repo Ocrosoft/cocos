@@ -1,0 +1,506 @@
+<xml>
+  <instance name="PlayerDeathHorns_Sprite" index="6" posX="0" posY="0" anchorX="-40" anchorY="-57" width="9" height="8"/>
+  <instance name="PlayerBlockShoulderB3_Sprite" index="1" posX="10" posY="0" anchorX="-26" anchorY="-19" width="9" height="10"/>
+  <instance name="PlayerBlockShoulderB3_Sprite" index="2" posX="20" posY="0" anchorX="-25" anchorY="-19" width="9" height="10"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="6" posX="30" posY="0" anchorX="-44" anchorY="-59" width="6" height="17"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="0" posX="37" posY="0" anchorX="-19" anchorY="-9" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="1" posX="56" posY="0" anchorX="-18" anchorY="-9" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="2" posX="75" posY="0" anchorX="-22" anchorY="-13" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="3" posX="94" posY="0" anchorX="-25" anchorY="-14" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="4" posX="113" posY="0" anchorX="-25" anchorY="-15" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="5" posX="132" posY="0" anchorX="-18" anchorY="-9" width="18" height="6"/>
+  <instance name="PlayerAirAttackHeadband_Sprite" index="6" posX="151" posY="0" anchorX="-19" anchorY="-9" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="0" posX="170" posY="0" anchorX="-27" anchorY="-36" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="1" posX="189" posY="0" anchorX="-26" anchorY="-35" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="2" posX="208" posY="0" anchorX="-24" anchorY="-33" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="3" posX="227" posY="0" anchorX="-29" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="4" posX="0" posY="11" anchorX="-29" anchorY="-39" width="18" height="6"/>
+  <instance name="PlayerAttacking3Headband_Sprite" index="5" posX="19" posY="18" anchorX="-28" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerDashHeadband_Sprite" index="0" posX="38" posY="7" anchorX="-14" anchorY="-11" width="18" height="6"/>
+  <instance name="PlayerDashHeadband_Sprite" index="1" posX="57" posY="7" anchorX="-9" anchorY="-11" width="18" height="6"/>
+  <instance name="PlayerDashHeadband_Sprite" index="2" posX="76" posY="7" anchorX="-16" anchorY="-11" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="0" posX="95" posY="7" anchorX="-12" anchorY="-35" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="1" posX="114" posY="7" anchorX="-12" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="2" posX="133" posY="7" anchorX="-11" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="3" posX="152" posY="7" anchorX="-12" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="4" posX="171" posY="7" anchorX="-14" anchorY="-38" width="18" height="6"/>
+  <instance name="PlayerDeathHeadband_Sprite" index="5" posX="190" posY="7" anchorX="-44" anchorY="-58" width="6" height="18"/>
+  <instance name="PlayerFallingHeadband_Sprite" index="0" posX="197" posY="7" anchorX="-15" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerFrontDashHeadband_Sprite" index="0" posX="216" posY="7" anchorX="-21" anchorY="-12" width="18" height="6"/>
+  <instance name="PlayerFrontDashHeadband_Sprite" index="1" posX="235" posY="7" anchorX="-25" anchorY="-14" width="18" height="6"/>
+  <instance name="PlayerFrontDashHeadband_Sprite" index="2" posX="0" posY="18" anchorX="-16" anchorY="-12" width="18" height="6"/>
+  <instance name="PlayerHurtHeadband_Sprite" index="0" posX="19" posY="25" anchorX="-16" anchorY="-10" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="0" posX="38" posY="14" anchorX="-13" anchorY="-12" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="1" posX="57" posY="14" anchorX="-13" anchorY="-11" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="2" posX="76" posY="14" anchorX="-13" anchorY="-12" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="3" posX="95" posY="14" anchorX="-13" anchorY="-13" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="4" posX="114" posY="14" anchorX="-13" anchorY="-14" width="18" height="6"/>
+  <instance name="PlayerIdleHeadband_Sprite" index="5" posX="133" posY="14" anchorX="-13" anchorY="-13" width="18" height="6"/>
+  <instance name="PlayerJumpingHeadband_Sprite" index="0" posX="152" posY="14" anchorX="-13" anchorY="-36" width="18" height="6"/>
+  <instance name="PlayerLevelUpHeadband_Sprite" index="0" posX="171" posY="14" anchorX="-18" anchorY="-35" width="18" height="6"/>
+  <instance name="PlayerLevelUpHeadband_Sprite" index="1" posX="190" posY="26" anchorX="-20" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerLevelUpHeadband_Sprite" index="2" posX="209" posY="14" anchorX="-17" anchorY="-36" width="18" height="6"/>
+  <instance name="PlayerLevelUpHeadband_Sprite" index="3" posX="228" posY="14" anchorX="-13" anchorY="-37" width="18" height="6"/>
+  <instance name="PlayerLevelUpHeadband_Sprite" index="4" posX="0" posY="25" anchorX="-14" anchorY="-36" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="0" posX="19" posY="32" anchorX="-15" anchorY="-28" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="1" posX="38" posY="21" anchorX="-15" anchorY="-27" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="2" posX="57" posY="21" anchorX="-15" anchorY="-30" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="3" posX="76" posY="21" anchorX="-15" anchorY="-28" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="4" posX="95" posY="21" anchorX="-15" anchorY="-27" width="18" height="6"/>
+  <instance name="PlayerWalkingHeadband_Sprite" index="5" posX="114" posY="21" anchorX="-15" anchorY="-30" width="18" height="6"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="0" posX="133" posY="21" anchorX="-34" anchorY="-14" width="10" height="11"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="1" posX="144" posY="21" anchorX="-33" anchorY="-14" width="10" height="11"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="2" posX="155" posY="21" anchorX="-36" anchorY="-20" width="10" height="11"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="5" posX="166" posY="21" anchorX="-33" anchorY="-14" width="10" height="11"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="6" posX="177" posY="21" anchorX="-34" anchorY="-14" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="1" posX="188" posY="33" anchorX="-26" anchorY="-44" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="2" posX="199" posY="33" anchorX="-26" anchorY="-43" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="3" posX="210" posY="21" anchorX="-26" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="4" posX="221" posY="21" anchorX="-26" anchorY="-43" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="5" posX="232" posY="21" anchorX="-26" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="6" posX="243" posY="21" anchorX="-26" anchorY="-43" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="7" posX="0" posY="32" anchorX="-26" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="8" posX="11" posY="39" anchorX="-26" anchorY="-43" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="9" posX="22" posY="39" anchorX="-26" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="10" posX="33" posY="39" anchorX="-26" anchorY="-43" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="11" posX="44" posY="28" anchorX="-28" anchorY="-44" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="12" posX="55" posY="28" anchorX="-29" anchorY="-45" width="10" height="11"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="13" posX="66" posY="28" anchorX="-46" anchorY="-65" width="10" height="11"/>
+  <instance name="PlayerFallingShoulderB3_Sprite" index="0" posX="77" posY="28" anchorX="-29" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerJumpingShoulderB3_Sprite" index="0" posX="88" posY="28" anchorX="-29" anchorY="-42" width="10" height="11"/>
+  <instance name="PlayerLevelUpShoulderB3_Sprite" index="3" posX="99" posY="28" anchorX="-26" anchorY="-44" width="10" height="11"/>
+  <instance name="PlayerLevelUpShoulderB3_Sprite" index="4" posX="110" posY="28" anchorX="-27" anchorY="-41" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="0" posX="121" posY="28" anchorX="-31" anchorY="-34" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="1" posX="132" posY="33" anchorX="-30" anchorY="-32" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="2" posX="143" posY="33" anchorX="-31" anchorY="-35" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="3" posX="154" posY="33" anchorX="-32" anchorY="-34" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="4" posX="165" posY="33" anchorX="-32" anchorY="-32" width="10" height="11"/>
+  <instance name="PlayerWalkingShoulderB3_Sprite" index="5" posX="176" posY="33" anchorX="-31" anchorY="-35" width="10" height="11"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="0" posX="187" posY="45" anchorX="-32" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="1" posX="200" posY="45" anchorX="-31" anchorY="-45" width="12" height="14"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="2" posX="213" posY="33" anchorX="-29" anchorY="-43" width="12" height="14"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="3" posX="226" posY="33" anchorX="-34" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="4" posX="239" posY="33" anchorX="-34" anchorY="-49" width="12" height="14"/>
+  <instance name="PlayerAttacking3Beard_Sprite" index="5" posX="0" posY="51" anchorX="-33" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="0" posX="13" posY="51" anchorX="-24" anchorY="-19" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="1" posX="26" posY="51" anchorX="-23" anchorY="-19" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="2" posX="39" posY="51" anchorX="-27" anchorY="-23" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="3" posX="52" posY="40" anchorX="-30" anchorY="-24" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="4" posX="65" posY="40" anchorX="-30" anchorY="-25" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="5" posX="78" posY="40" anchorX="-23" anchorY="-19" width="12" height="14"/>
+  <instance name="PlayerAirAttackBeard_Sprite" index="6" posX="91" posY="40" anchorX="-24" anchorY="-19" width="12" height="14"/>
+  <instance name="PlayerDashBeard_Sprite" index="0" posX="104" posY="40" anchorX="-19" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerDashBeard_Sprite" index="1" posX="117" posY="40" anchorX="-14" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerDashBeard_Sprite" index="2" posX="130" posY="45" anchorX="-14" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerDashBeard_Sprite" index="3" posX="143" posY="45" anchorX="-14" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerDashBeard_Sprite" index="4" posX="156" posY="45" anchorX="-21" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerHurtBeard_Sprite" index="0" posX="169" posY="45" anchorX="-21" anchorY="-20" width="12" height="14"/>
+  <instance name="PlayerFrontDashBeard_Sprite" index="0" posX="182" posY="60" anchorX="-26" anchorY="-22" width="12" height="14"/>
+  <instance name="PlayerFrontDashBeard_Sprite" index="1" posX="195" posY="60" anchorX="-30" anchorY="-24" width="12" height="14"/>
+  <instance name="PlayerFrontDashBeard_Sprite" index="2" posX="208" posY="60" anchorX="-30" anchorY="-24" width="12" height="14"/>
+  <instance name="PlayerFrontDashBeard_Sprite" index="3" posX="221" posY="48" anchorX="-30" anchorY="-24" width="12" height="14"/>
+  <instance name="PlayerFrontDashBeard_Sprite" index="4" posX="234" posY="48" anchorX="-21" anchorY="-22" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="0" posX="0" posY="66" anchorX="-17" anchorY="-44" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="1" posX="13" posY="66" anchorX="-17" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="2" posX="26" posY="66" anchorX="-16" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="3" posX="39" posY="66" anchorX="-17" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="4" posX="52" posY="55" anchorX="-19" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerDeathBeard_Sprite" index="5" posX="65" posY="55" anchorX="-25" anchorY="-63" width="14" height="12"/>
+  <instance name="PlayerDeathBeard_Sprite" index="6" posX="80" posY="55" anchorX="-25" anchorY="-64" width="14" height="12"/>
+  <instance name="PlayerIdleBeard_Sprite" index="0" posX="95" posY="55" anchorX="-18" anchorY="-22" width="12" height="14"/>
+  <instance name="PlayerIdleBeard_Sprite" index="1" posX="108" posY="55" anchorX="-18" anchorY="-21" width="12" height="14"/>
+  <instance name="PlayerIdleBeard_Sprite" index="2" posX="121" posY="60" anchorX="-18" anchorY="-22" width="12" height="14"/>
+  <instance name="PlayerIdleBeard_Sprite" index="3" posX="134" posY="60" anchorX="-18" anchorY="-23" width="12" height="14"/>
+  <instance name="PlayerIdleBeard_Sprite" index="4" posX="147" posY="60" anchorX="-18" anchorY="-24" width="12" height="14"/>
+  <instance name="PlayerIdleBeard_Sprite" index="5" posX="160" posY="60" anchorX="-18" anchorY="-23" width="12" height="14"/>
+  <instance name="PlayerFallingBeard_Sprite" index="0" posX="173" posY="75" anchorX="-20" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerFallingBeard_Sprite" index="1" posX="186" posY="75" anchorX="-20" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerFallingBeard_Sprite" index="2" posX="199" posY="75" anchorX="-20" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerLevelUpBeard_Sprite" index="0" posX="212" posY="75" anchorX="-23" anchorY="-45" width="12" height="14"/>
+  <instance name="PlayerLevelUpBeard_Sprite" index="1" posX="225" posY="63" anchorX="-25" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerLevelUpBeard_Sprite" index="2" posX="238" posY="63" anchorX="-22" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerLevelUpBeard_Sprite" index="3" posX="0" posY="81" anchorX="-18" anchorY="-47" width="12" height="14"/>
+  <instance name="PlayerLevelUpBeard_Sprite" index="4" posX="13" posY="81" anchorX="-19" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerJumpingBeard_Sprite" index="0" posX="26" posY="81" anchorX="-18" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerJumpingBeard_Sprite" index="1" posX="39" posY="81" anchorX="-18" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerJumpingBeard_Sprite" index="2" posX="52" posY="70" anchorX="-18" anchorY="-46" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="0" posX="65" posY="68" anchorX="-20" anchorY="-38" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="1" posX="78" posY="68" anchorX="-20" anchorY="-37" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="2" posX="91" posY="70" anchorX="-20" anchorY="-40" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="3" posX="104" posY="70" anchorX="-20" anchorY="-38" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="4" posX="117" posY="75" anchorX="-20" anchorY="-37" width="12" height="14"/>
+  <instance name="PlayerWalkingBeard_Sprite" index="5" posX="130" posY="75" anchorX="-20" anchorY="-40" width="12" height="14"/>
+  <instance name="PlayerDeathHorns_Sprite" index="5" posX="143" posY="75" anchorX="-40" anchorY="-56" width="9" height="20"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="3" posX="153" posY="75" anchorX="-34" anchorY="-20" width="13" height="15"/>
+  <instance name="PlayerAirAttackShoulderB3_Sprite" index="4" posX="167" posY="90" anchorX="-33" anchorY="-22" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="0" posX="181" posY="90" anchorX="-32" anchorY="-38" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="1" posX="195" posY="90" anchorX="-31" anchorY="-37" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="2" posX="209" posY="90" anchorX="-29" anchorY="-36" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="3" posX="223" posY="90" anchorX="-28" anchorY="-36" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="4" posX="237" posY="78" anchorX="-38" anchorY="-41" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="5" posX="0" posY="96" anchorX="-38" anchorY="-44" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="6" posX="14" posY="96" anchorX="-37" anchorY="-43" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="7" posX="28" posY="96" anchorX="-36" anchorY="-43" width="13" height="15"/>
+  <instance name="PlayerAttacking3ShoulderB3_Sprite" index="8" posX="42" posY="96" anchorX="-36" anchorY="-42" width="13" height="15"/>
+  <instance name="PlayerDashShoulderB3_Sprite" index="0" posX="56" posY="85" anchorX="-24" anchorY="-15" width="13" height="15"/>
+  <instance name="PlayerDashShoulderB3_Sprite" index="1" posX="70" posY="83" anchorX="-20" anchorY="-15" width="13" height="15"/>
+  <instance name="PlayerDashShoulderB3_Sprite" index="2" posX="84" posY="85" anchorX="-26" anchorY="-15" width="13" height="15"/>
+  <instance name="PlayerBlockShoulderB3_Sprite" index="0" posX="98" posY="85" anchorX="-25" anchorY="-14" width="13" height="15"/>
+  <instance name="PlayerHurtShoulderB3_Sprite" index="0" posX="112" posY="90" anchorX="-27" anchorY="-12" width="13" height="15"/>
+  <instance name="PlayerFrontDashShoulderB3_Sprite" index="0" posX="126" posY="90" anchorX="-28" anchorY="-15" width="13" height="15"/>
+  <instance name="PlayerFrontDashShoulderB3_Sprite" index="1" posX="140" posY="96" anchorX="-30" anchorY="-16" width="13" height="15"/>
+  <instance name="PlayerFrontDashShoulderB3_Sprite" index="2" posX="154" posY="106" anchorX="-24" anchorY="-15" width="13" height="15"/>
+  <instance name="PlayerDeathShoulderB3_Sprite" index="0" posX="168" posY="106" anchorX="-23" anchorY="-40" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="0" posX="182" posY="106" anchorX="54" anchorY="-14" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="1" posX="196" posY="106" anchorX="54" anchorY="-13" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="2" posX="210" posY="106" anchorX="54" anchorY="-12" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="3" posX="224" posY="106" anchorX="54" anchorY="-14" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="4" posX="238" posY="94" anchorX="54" anchorY="-16" width="13" height="15"/>
+  <instance name="PlayerIdleShoulderB3_Sprite" index="5" posX="0" posY="112" anchorX="54" anchorY="-14" width="13" height="15"/>
+  <instance name="PlayerLevelUpShoulderB3_Sprite" index="0" posX="14" posY="112" anchorX="-27" anchorY="-38" width="13" height="15"/>
+  <instance name="PlayerLevelUpShoulderB3_Sprite" index="1" posX="28" posY="112" anchorX="-27" anchorY="-41" width="13" height="15"/>
+  <instance name="PlayerLevelUpShoulderB3_Sprite" index="2" posX="42" posY="112" anchorX="-23" anchorY="-41" width="13" height="15"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="0" posX="56" posY="101" anchorX="-25" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="1" posX="80" posY="101" anchorX="-24" anchorY="-35" width="23" height="9"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="2" posX="104" posY="106" anchorX="-22" anchorY="-33" width="23" height="9"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="3" posX="128" posY="112" anchorX="-27" anchorY="-37" width="23" height="9"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="4" posX="152" posY="122" anchorX="-27" anchorY="-39" width="23" height="9"/>
+  <instance name="PlayerAttacking3Horns_Sprite" index="5" posX="176" posY="122" anchorX="-26" anchorY="-37" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="0" posX="200" posY="122" anchorX="-17" anchorY="-9" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="1" posX="224" posY="122" anchorX="-16" anchorY="-9" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="2" posX="0" posY="128" anchorX="-20" anchorY="-13" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="3" posX="24" posY="128" anchorX="-23" anchorY="-14" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="4" posX="48" posY="128" anchorX="-23" anchorY="-15" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="5" posX="72" posY="111" anchorX="-16" anchorY="-9" width="23" height="9"/>
+  <instance name="PlayerAirAttackHorns_Sprite" index="6" posX="96" posY="116" anchorX="-17" anchorY="-9" width="23" height="9"/>
+  <instance name="PlayerDashHorns_Sprite" index="0" posX="120" posY="122" anchorX="-12" anchorY="-11" width="23" height="9"/>
+  <instance name="PlayerDashHorns_Sprite" index="1" posX="144" posY="132" anchorX="-7" anchorY="-11" width="23" height="9"/>
+  <instance name="PlayerDashHorns_Sprite" index="2" posX="168" posY="132" anchorX="-14" anchorY="-11" width="23" height="9"/>
+  <instance name="PlayerHurtHorns_Sprite" index="0" posX="192" posY="132" anchorX="-14" anchorY="-10" width="23" height="9"/>
+  <instance name="PlayerFrontDashHorns_Sprite" index="0" posX="216" posY="132" anchorX="-19" anchorY="-12" width="23" height="9"/>
+  <instance name="PlayerFrontDashHorns_Sprite" index="1" posX="0" posY="138" anchorX="-23" anchorY="-14" width="23" height="9"/>
+  <instance name="PlayerFrontDashHorns_Sprite" index="2" posX="24" posY="138" anchorX="-14" anchorY="-12" width="23" height="9"/>
+  <instance name="PlayerDeathHorns_Sprite" index="0" posX="48" posY="138" anchorX="-10" anchorY="-34" width="23" height="9"/>
+  <instance name="PlayerDeathHorns_Sprite" index="1" posX="72" posY="121" anchorX="-10" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerDeathHorns_Sprite" index="2" posX="96" posY="126" anchorX="-9" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerDeathHorns_Sprite" index="3" posX="120" posY="132" anchorX="-10" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerDeathHorns_Sprite" index="4" posX="144" posY="142" anchorX="-12" anchorY="-37" width="23" height="9"/>
+  <instance name="PlayerFallingHorns_Sprite" index="0" posX="168" posY="142" anchorX="-13" anchorY="-37" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="0" posX="192" posY="142" anchorX="-11" anchorY="-12" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="1" posX="216" posY="142" anchorX="-11" anchorY="-11" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="2" posX="0" posY="148" anchorX="-11" anchorY="-12" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="3" posX="24" posY="148" anchorX="-11" anchorY="-13" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="4" posX="48" posY="148" anchorX="-11" anchorY="-14" width="23" height="9"/>
+  <instance name="PlayerIdleHorns_Sprite" index="5" posX="72" posY="131" anchorX="-11" anchorY="-13" width="23" height="9"/>
+  <instance name="PlayerJumpingHorns_Sprite" index="0" posX="96" posY="136" anchorX="-11" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerLevelUpHorns_Sprite" index="0" posX="120" posY="142" anchorX="-16" anchorY="-35" width="23" height="9"/>
+  <instance name="PlayerLevelUpHorns_Sprite" index="1" posX="144" posY="152" anchorX="-18" anchorY="-37" width="23" height="9"/>
+  <instance name="PlayerLevelUpHorns_Sprite" index="2" posX="168" posY="152" anchorX="-15" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerLevelUpHorns_Sprite" index="3" posX="192" posY="152" anchorX="-11" anchorY="-36" width="23" height="9"/>
+  <instance name="PlayerLevelUpHorns_Sprite" index="4" posX="216" posY="152" anchorX="-12" anchorY="-35" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="0" posX="0" posY="158" anchorX="-13" anchorY="-28" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="1" posX="24" posY="158" anchorX="-13" anchorY="-27" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="2" posX="48" posY="158" anchorX="-13" anchorY="-30" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="3" posX="72" posY="141" anchorX="-13" anchorY="-28" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="4" posX="96" posY="146" anchorX="-13" anchorY="-27" width="23" height="9"/>
+  <instance name="PlayerWalkingHorns_Sprite" index="5" posX="120" posY="152" anchorX="-13" anchorY="-30" width="23" height="9"/>
+  <instance name="PlayerDeathHead7_Sprite" index="6" posX="144" posY="162" anchorX="-33" anchorY="-59" width="19" height="17"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="0" posX="164" posY="162" anchorX="-27" anchorY="-32" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="1" posX="183" posY="162" anchorX="-26" anchorY="-31" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="2" posX="202" posY="162" anchorX="-24" anchorY="-29" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="3" posX="221" posY="162" anchorX="-24" anchorY="-29" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="4" posX="0" posY="168" anchorX="-29" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="5" posX="19" posY="168" anchorX="-29" anchorY="-35" width="18" height="19"/>
+  <instance name="PlayerAttacking3Head7_Sprite" index="6" posX="38" posY="168" anchorX="-28" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="0" posX="57" posY="168" anchorX="-19" anchorY="-5" width="18" height="19"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="1" posX="76" posY="151" anchorX="-18" anchorY="-5" width="18" height="19"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="5" posX="95" posY="156" anchorX="-18" anchorY="-5" width="18" height="19"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="6" posX="114" posY="162" anchorX="-19" anchorY="-5" width="18" height="19"/>
+  <instance name="PlayerDashHead7_Sprite" index="0" posX="133" posY="180" anchorX="-14" anchorY="-7" width="18" height="19"/>
+  <instance name="PlayerDashHead7_Sprite" index="1" posX="152" posY="182" anchorX="-9" anchorY="-7" width="18" height="19"/>
+  <instance name="PlayerDashHead7_Sprite" index="2" posX="171" posY="182" anchorX="-16" anchorY="-7" width="18" height="19"/>
+  <instance name="PlayerHurtHead7_Sprite" index="0" posX="190" posY="182" anchorX="-16" anchorY="-6" width="18" height="19"/>
+  <instance name="PlayerFrontDashHead7_Sprite" index="0" posX="209" posY="182" anchorX="-21" anchorY="-8" width="18" height="19"/>
+  <instance name="PlayerFrontDashHead7_Sprite" index="1" posX="228" posY="182" anchorX="-25" anchorY="-10" width="18" height="19"/>
+  <instance name="PlayerFrontDashHead7_Sprite" index="2" posX="0" posY="188" anchorX="-16" anchorY="-8" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="0" posX="19" posY="188" anchorX="-12" anchorY="-31" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="1" posX="38" posY="188" anchorX="-12" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="2" posX="57" posY="188" anchorX="-11" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="3" posX="76" posY="171" anchorX="-12" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="4" posX="95" posY="176" anchorX="-14" anchorY="-34" width="18" height="19"/>
+  <instance name="PlayerDeathHead7_Sprite" index="5" posX="114" posY="200" anchorX="-33" anchorY="-58" width="19" height="18"/>
+  <instance name="PlayerFallingHead7_Sprite" index="0" posX="134" posY="202" anchorX="-15" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="0" posX="153" posY="202" anchorX="65" anchorY="-6" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="1" posX="172" posY="202" anchorX="65" anchorY="-5" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="2" posX="191" posY="202" anchorX="65" anchorY="-6" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="3" posX="210" posY="202" anchorX="65" anchorY="-7" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="4" posX="229" posY="202" anchorX="65" anchorY="-8" width="18" height="19"/>
+  <instance name="PlayerIdleHead7_Sprite" index="5" posX="0" posY="208" anchorX="65" anchorY="-7" width="18" height="19"/>
+  <instance name="PlayerJumpingHead7_Sprite" index="0" posX="19" posY="208" anchorX="-13" anchorY="-32" width="18" height="19"/>
+  <instance name="PlayerLevelUpHead7_Sprite" index="0" posX="38" posY="208" anchorX="-18" anchorY="-31" width="18" height="19"/>
+  <instance name="PlayerLevelUpHead7_Sprite" index="1" posX="57" posY="208" anchorX="-20" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerLevelUpHead7_Sprite" index="2" posX="76" posY="191" anchorX="-17" anchorY="-32" width="18" height="19"/>
+  <instance name="PlayerLevelUpHead7_Sprite" index="3" posX="95" posY="196" anchorX="-13" anchorY="-33" width="18" height="19"/>
+  <instance name="PlayerLevelUpHead7_Sprite" index="4" posX="114" posY="219" anchorX="-14" anchorY="-32" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="0" posX="133" posY="222" anchorX="-15" anchorY="-24" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="1" posX="152" posY="222" anchorX="-15" anchorY="-23" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="2" posX="171" posY="222" anchorX="-15" anchorY="-26" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="3" posX="190" posY="222" anchorX="-15" anchorY="-24" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="4" posX="209" posY="222" anchorX="-15" anchorY="-23" width="18" height="19"/>
+  <instance name="PlayerWalkingHead7_Sprite" index="5" posX="228" posY="222" anchorX="-15" anchorY="-26" width="18" height="19"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="2" posX="0" posY="228" anchorX="-22" anchorY="-8" width="18" height="20"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="3" posX="19" posY="228" anchorX="-25" anchorY="-9" width="18" height="20"/>
+  <instance name="PlayerAirAttackHead7_Sprite" index="4" posX="38" posY="228" anchorX="-25" anchorY="-10" width="18" height="20"/>
+  <animation frame="1" name="PlayerAirAttackHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAirAttackHeadband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAirAttackHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAirAttackHeadband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerAirAttackHeadband_Sprite" index="4" duration="3" label=""/>
+  <animation frame="8" name="PlayerAirAttackHeadband_Sprite" index="5" duration="1" label=""/>
+  <animation frame="9" name="PlayerAirAttackHeadband_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerAttacking3Headband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAttacking3Headband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAttacking3Headband_Sprite" index="2" duration="3" label=""/>
+  <animation frame="6" name="PlayerAttacking3Headband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="7" name="PlayerAttacking3Headband_Sprite" index="4" duration="3" label=""/>
+  <animation frame="10" name="PlayerAttacking3Headband_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerDashHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDashHeadband_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerDashHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerDeathHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDeathHeadband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDeathHeadband_Sprite" index="2" duration="9" label=""/>
+  <animation frame="12" name="PlayerDeathHeadband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="13" name="PlayerDeathHeadband_Sprite" index="4" duration="1" label=""/>
+  <animation frame="14" name="PlayerDeathHeadband_Sprite" index="5" duration="1" label=""/>
+  <animation frame="15" name="PlayerDeathHeadband_Sprite" index="6" duration="4" label=""/>
+  <animation frame="1" name="PlayerFallingHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerFrontDashHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFrontDashHeadband_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerFrontDashHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerHurtHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerIdleHeadband_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="PlayerIdleHeadband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="PlayerIdleHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="5" name="PlayerIdleHeadband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerIdleHeadband_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerIdleHeadband_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerJumpingHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerLevelUpHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerLevelUpHeadband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerLevelUpHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerLevelUpHeadband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerLevelUpHeadband_Sprite" index="4" duration="3" label=""/>
+  <animation frame="1" name="PlayerWalkingHeadband_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerWalkingHeadband_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerWalkingHeadband_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerWalkingHeadband_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerWalkingHeadband_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerWalkingHeadband_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAttacking3Beard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAttacking3Beard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAttacking3Beard_Sprite" index="2" duration="3" label=""/>
+  <animation frame="6" name="PlayerAttacking3Beard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="7" name="PlayerAttacking3Beard_Sprite" index="4" duration="3" label=""/>
+  <animation frame="10" name="PlayerAttacking3Beard_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAirAttackBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAirAttackBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAirAttackBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAirAttackBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerAirAttackBeard_Sprite" index="4" duration="3" label=""/>
+  <animation frame="8" name="PlayerAirAttackBeard_Sprite" index="5" duration="1" label=""/>
+  <animation frame="9" name="PlayerAirAttackBeard_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerDashBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDashBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDashBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerDashBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerDashBeard_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="PlayerHurtBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerFrontDashBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFrontDashBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerFrontDashBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerFrontDashBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerFrontDashBeard_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="PlayerDeathBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDeathBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDeathBeard_Sprite" index="2" duration="9" label=""/>
+  <animation frame="12" name="PlayerDeathBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="13" name="PlayerDeathBeard_Sprite" index="4" duration="1" label=""/>
+  <animation frame="14" name="PlayerDeathBeard_Sprite" index="5" duration="1" label=""/>
+  <animation frame="15" name="PlayerDeathBeard_Sprite" index="6" duration="4" label=""/>
+  <animation frame="1" name="PlayerIdleBeard_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="PlayerIdleBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="PlayerIdleBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="5" name="PlayerIdleBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerIdleBeard_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerIdleBeard_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerFallingBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFallingBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerFallingBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerLevelUpBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerLevelUpBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerLevelUpBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerLevelUpBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerLevelUpBeard_Sprite" index="4" duration="3" label=""/>
+  <animation frame="1" name="PlayerJumpingBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerJumpingBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerJumpingBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerWalkingBeard_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerWalkingBeard_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerWalkingBeard_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerWalkingBeard_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerWalkingBeard_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerWalkingBeard_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAttacking3Horns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAttacking3Horns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAttacking3Horns_Sprite" index="2" duration="3" label=""/>
+  <animation frame="6" name="PlayerAttacking3Horns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="7" name="PlayerAttacking3Horns_Sprite" index="4" duration="3" label=""/>
+  <animation frame="10" name="PlayerAttacking3Horns_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAirAttackHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAirAttackHorns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAirAttackHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAirAttackHorns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerAirAttackHorns_Sprite" index="4" duration="3" label=""/>
+  <animation frame="8" name="PlayerAirAttackHorns_Sprite" index="5" duration="1" label=""/>
+  <animation frame="9" name="PlayerAirAttackHorns_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerDashHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDashHorns_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerDashHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerHurtHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerFrontDashHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFrontDashHorns_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerFrontDashHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerDeathHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDeathHorns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDeathHorns_Sprite" index="2" duration="9" label=""/>
+  <animation frame="12" name="PlayerDeathHorns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="13" name="PlayerDeathHorns_Sprite" index="4" duration="1" label=""/>
+  <animation frame="14" name="PlayerDeathHorns_Sprite" index="5" duration="1" label=""/>
+  <animation frame="15" name="PlayerDeathHorns_Sprite" index="6" duration="4" label=""/>
+  <animation frame="1" name="PlayerFallingHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerIdleHorns_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="PlayerIdleHorns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="PlayerIdleHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="5" name="PlayerIdleHorns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerIdleHorns_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerIdleHorns_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerJumpingHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerLevelUpHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerLevelUpHorns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerLevelUpHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerLevelUpHorns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerLevelUpHorns_Sprite" index="4" duration="3" label=""/>
+  <animation frame="1" name="PlayerWalkingHorns_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerWalkingHorns_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerWalkingHorns_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerWalkingHorns_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerWalkingHorns_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerWalkingHorns_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAirAttackShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAirAttackShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAirAttackShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAirAttackShoulderB3_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerAirAttackShoulderB3_Sprite" index="4" duration="3" label=""/>
+  <animation frame="8" name="PlayerAirAttackShoulderB3_Sprite" index="5" duration="1" label=""/>
+  <animation frame="9" name="PlayerAirAttackShoulderB3_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerAttacking3ShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAttacking3ShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAttacking3ShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAttacking3ShoulderB3_Sprite" index="3" duration="2" label=""/>
+  <animation frame="6" name="PlayerAttacking3ShoulderB3_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerAttacking3ShoulderB3_Sprite" index="5" duration="1" label=""/>
+  <animation frame="8" name="PlayerAttacking3ShoulderB3_Sprite" index="6" duration="1" label=""/>
+  <animation frame="9" name="PlayerAttacking3ShoulderB3_Sprite" index="7" duration="1" label=""/>
+  <animation frame="10" name="PlayerAttacking3ShoulderB3_Sprite" index="8" duration="1" label=""/>
+  <animation frame="1" name="PlayerDashShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDashShoulderB3_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerDashShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerBlockShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerBlockShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerBlockShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerHurtShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerFrontDashShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFrontDashShoulderB3_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerFrontDashShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerDeathShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDeathShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDeathShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerDeathShoulderB3_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerDeathShoulderB3_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerDeathShoulderB3_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="PlayerDeathShoulderB3_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="PlayerDeathShoulderB3_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="PlayerDeathShoulderB3_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="PlayerDeathShoulderB3_Sprite" index="9" duration="1" label=""/>
+  <animation frame="11" name="PlayerDeathShoulderB3_Sprite" index="10" duration="1" label=""/>
+  <animation frame="12" name="PlayerDeathShoulderB3_Sprite" index="11" duration="1" label=""/>
+  <animation frame="13" name="PlayerDeathShoulderB3_Sprite" index="12" duration="1" label=""/>
+  <animation frame="14" name="PlayerDeathShoulderB3_Sprite" index="13" duration="5" label=""/>
+  <animation frame="1" name="PlayerFallingShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerIdleShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerIdleShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerIdleShoulderB3_Sprite" index="2" duration="2" label=""/>
+  <animation frame="5" name="PlayerIdleShoulderB3_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerIdleShoulderB3_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerIdleShoulderB3_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerJumpingShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerLevelUpShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerLevelUpShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerLevelUpShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerLevelUpShoulderB3_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerLevelUpShoulderB3_Sprite" index="4" duration="3" label=""/>
+  <animation frame="1" name="PlayerWalkingShoulderB3_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerWalkingShoulderB3_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerWalkingShoulderB3_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerWalkingShoulderB3_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerWalkingShoulderB3_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerWalkingShoulderB3_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerAttacking3Head7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAttacking3Head7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAttacking3Head7_Sprite" index="2" duration="2" label=""/>
+  <animation frame="5" name="PlayerAttacking3Head7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerAttacking3Head7_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerAttacking3Head7_Sprite" index="5" duration="3" label=""/>
+  <animation frame="10" name="PlayerAttacking3Head7_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerAirAttackHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerAirAttackHead7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerAirAttackHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerAirAttackHead7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerAirAttackHead7_Sprite" index="4" duration="3" label=""/>
+  <animation frame="8" name="PlayerAirAttackHead7_Sprite" index="5" duration="1" label=""/>
+  <animation frame="9" name="PlayerAirAttackHead7_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="PlayerDashHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDashHead7_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerDashHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerHurtHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerFrontDashHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerFrontDashHead7_Sprite" index="1" duration="3" label=""/>
+  <animation frame="5" name="PlayerFrontDashHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="1" name="PlayerDeathHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerDeathHead7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerDeathHead7_Sprite" index="2" duration="9" label=""/>
+  <animation frame="12" name="PlayerDeathHead7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="13" name="PlayerDeathHead7_Sprite" index="4" duration="1" label=""/>
+  <animation frame="14" name="PlayerDeathHead7_Sprite" index="5" duration="1" label=""/>
+  <animation frame="15" name="PlayerDeathHead7_Sprite" index="6" duration="4" label=""/>
+  <animation frame="1" name="PlayerFallingHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerIdleHead7_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="PlayerIdleHead7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="PlayerIdleHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="5" name="PlayerIdleHead7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="6" name="PlayerIdleHead7_Sprite" index="4" duration="1" label=""/>
+  <animation frame="7" name="PlayerIdleHead7_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="PlayerJumpingHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="PlayerLevelUpHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerLevelUpHead7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerLevelUpHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerLevelUpHead7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerLevelUpHead7_Sprite" index="4" duration="3" label=""/>
+  <animation frame="1" name="PlayerWalkingHead7_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlayerWalkingHead7_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlayerWalkingHead7_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlayerWalkingHead7_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlayerWalkingHead7_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlayerWalkingHead7_Sprite" index="5" duration="1" label=""/>
+</xml>

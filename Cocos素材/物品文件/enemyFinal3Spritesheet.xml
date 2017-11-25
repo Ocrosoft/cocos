@@ -1,0 +1,1926 @@
+<xml>
+  <instance name="PlantProjectileExplosion_Sprite" index="6" posX="0" posY="0" anchorX="-6710886.4" anchorY="-6710886.4" width="1" height="1"/>
+  <instance name="WoodChip_Sprite" index="0" posX="2" posY="0" anchorX="5" anchorY="2" width="10" height="3"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="5" posX="13" posY="0" anchorX="3" anchorY="9" width="6" height="13"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="4" posX="20" posY="0" anchorX="3" anchorY="8" width="7" height="13"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="3" posX="28" posY="0" anchorX="3" anchorY="8" width="7" height="14"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="2" posX="36" posY="0" anchorX="4" anchorY="7" width="8" height="14"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="1" posX="45" posY="0" anchorX="5" anchorY="5" width="10" height="13"/>
+  <instance name="PlantProjectileExplosion_Sprite" index="0" posX="56" posY="0" anchorX="6" anchorY="3" width="12" height="12"/>
+  <instance name="EnemyStarburstIdleFace_Sprite" index="0" posX="69" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="EnemyStarburstIdleFace_Sprite" index="1" posX="82" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="EnemyStarburstIdleFace_Sprite" index="2" posX="95" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="EnemyStarburstIdleFace_Sprite" index="3" posX="108" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="EnemyStarburstAttackFace_Sprite" index="0" posX="121" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="EnemyStarburstAttackFace_Sprite" index="1" posX="134" posY="0" anchorX="6" anchorY="6" width="12" height="12"/>
+  <instance name="PlantProjectile_Sprite" index="1" posX="147" posY="0" anchorX="7.15" anchorY="7.15" width="14" height="14"/>
+  <instance name="EnemySkeletonArcherLegsIdle_Sprite" index="0" posX="162" posY="0" anchorX="40.2" anchorY="-30" width="25" height="8"/>
+  <instance name="EnemyBlobBossJumpCube_Sprite" index="3" posX="188" posY="0" anchorX="0" anchorY="-5.4" width="25" height="9"/>
+  <instance name="EnemySpikeTrap_Sprite" index="0" posX="214" posY="0" anchorX="0" anchorY="-22" width="30" height="8"/>
+  <instance name="EnemySpikeTrap_Sprite" index="1" posX="245" posY="0" anchorX="0" anchorY="-22" width="30" height="8"/>
+  <instance name="EnemySpikeTrap_Sprite" index="6" posX="276" posY="0" anchorX="0" anchorY="-22" width="30" height="8"/>
+  <instance name="EnemySpikeTrap_Sprite" index="7" posX="307" posY="0" anchorX="0" anchorY="-22" width="30" height="8"/>
+  <instance name="EnemyChickenRun_Sprite" index="2" posX="338" posY="0" anchorX="14.1" anchorY="-3" width="13" height="19"/>
+  <instance name="PlantProjectile_Sprite" index="0" posX="352" posY="0" anchorX="8.15" anchorY="8.15" width="16" height="16"/>
+  <instance name="NinjaSmoke_Sprite" index="4" posX="369" posY="0" anchorX="5.4" anchorY="9.65" width="16" height="16"/>
+  <instance name="EnemyChickenRun_Sprite" index="0" posX="386" posY="0" anchorX="15.1" anchorY="-2" width="13" height="20"/>
+  <instance name="EnemyChickenRun_Sprite" index="5" posX="400" posY="0" anchorX="14.1" anchorY="0" width="13" height="20"/>
+  <instance name="EnemyChickenRun_Sprite" index="4" posX="414" posY="0" anchorX="15.1" anchorY="-2" width="14" height="19"/>
+  <instance name="NinjaSmoke_Sprite" index="3" posX="429" posY="0" anchorX="6.7" anchorY="9.7" width="16" height="17"/>
+  <instance name="EnemyChickenRun_Sprite" index="3" posX="446" posY="0" anchorX="15.1" anchorY="0" width="13" height="22"/>
+  <instance name="NinjaSmoke_Sprite" index="1" posX="460" posY="0" anchorX="9.25" anchorY="9.75" width="17" height="17"/>
+  <instance name="NinjaSmoke_Sprite" index="2" posX="478" posY="0" anchorX="7.95" anchorY="9.7" width="17" height="17"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="6" posX="496" posY="0" anchorX="0" anchorY="-2.45" width="25" height="12"/>
+  <instance name="EnemyBlobBossJumpCube_Sprite" index="2" posX="522" posY="0" anchorX="0" anchorY="-3.65" width="25" height="12"/>
+  <instance name="EnemyChickenRun_Sprite" index="1" posX="548" posY="0" anchorX="15.1" anchorY="0" width="14" height="22"/>
+  <instance name="ShurikenProjectile1_Sprite" index="0" posX="563" posY="0" anchorX="9.2" anchorY="9.2" width="18" height="18"/>
+  <instance name="EnemyPlantHeadAttack_Sprite" index="2" posX="582" posY="0" anchorX="-15" anchorY="-12" width="27" height="12"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="0" posX="610" posY="0" anchorX="9" anchorY="9" width="18" height="18"/>
+  <instance name="NinjaSmoke_Sprite" index="0" posX="629" posY="0" anchorX="10.5" anchorY="9.75" width="18" height="18"/>
+  <instance name="EnemyNinjaHeadThrow_Sprite" index="0" posX="648" posY="0" anchorX="-19" anchorY="-1" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadThrow_Sprite" index="1" posX="666" posY="0" anchorX="-17" anchorY="-2" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadThrow_Sprite" index="2" posX="684" posY="0" anchorX="-15" anchorY="-3" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadThrow_Sprite" index="3" posX="702" posY="0" anchorX="-14" anchorY="-4" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadThrow_Sprite" index="4" posX="720" posY="0" anchorX="-17" anchorY="-2" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadRun_Sprite" index="0" posX="738" posY="0" anchorX="-21" anchorY="-4" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadRun_Sprite" index="1" posX="756" posY="0" anchorX="-21" anchorY="-6" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadRun_Sprite" index="2" posX="774" posY="0" anchorX="-21" anchorY="-4" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadRun_Sprite" index="3" posX="792" posY="0" anchorX="-21" anchorY="-6" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="0" posX="810" posY="0" anchorX="-17" anchorY="-1" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="1" posX="828" posY="0" anchorX="-17" anchorY="-3" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="2" posX="846" posY="0" anchorX="-17" anchorY="-4" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="3" posX="864" posY="0" anchorX="-17" anchorY="-5" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="4" posX="882" posY="0" anchorX="-17" anchorY="-4" width="17" height="20"/>
+  <instance name="EnemyNinjaHeadIdle_Sprite" index="5" posX="900" posY="0" anchorX="-17" anchorY="-3" width="17" height="20"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="5" posX="918" posY="0" anchorX="0" anchorY="-1.55" width="25" height="14"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="7" posX="944" posY="0" anchorX="0" anchorY="-1.55" width="25" height="14"/>
+  <instance name="EnemyBlobBossJumpCube_Sprite" index="1" posX="970" posY="0" anchorX="0" anchorY="-1.9" width="25" height="14"/>
+  <instance name="EnemyBlobBossJumpCube_Sprite" index="4" posX="996" posY="0" anchorX="0" anchorY="-1.9" width="25" height="14"/>
+  <instance name="EnemyNinjaHeadAttack_Sprite" index="0" posX="1022" posY="0" anchorX="-9" anchorY="0" width="18" height="20"/>
+  <instance name="EnemyPlantHeadIdle_Sprite" index="1" posX="1041" posY="0" anchorX="-19" anchorY="-4" width="19" height="19"/>
+  <instance name="EnemyPlantHeadIdle_Sprite" index="3" posX="1061" posY="0" anchorX="-19" anchorY="-4" width="19" height="19"/>
+  <instance name="EnemyPlantHeadAttack_Sprite" index="3" posX="1081" posY="0" anchorX="-19" anchorY="-4" width="19" height="19"/>
+  <instance name="EnemyPlantHeadAttack_Sprite" index="1" posX="1101" posY="0" anchorX="-15" anchorY="-9" width="27" height="14"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="0" posX="1129" posY="0" anchorX="-20" anchorY="-7" width="33" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="9" posX="1163" posY="0" anchorX="-20" anchorY="-7" width="33" height="12"/>
+  <instance name="EnemyPlatformButton_Sprite" index="4" posX="1197" posY="0" anchorX="-20" anchorY="-7" width="33" height="12"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="1" posX="1231" posY="0" anchorX="10" anchorY="10" width="20" height="20"/>
+  <instance name="EnemySpark_Sprite" index="3" posX="1252" posY="0" anchorX="10" anchorY="9" width="21" height="20"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="1" posX="1274" posY="0" anchorX="-19" anchorY="-7" width="35" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="8" posX="1310" posY="0" anchorX="-19" anchorY="-7" width="35" height="12"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="0" posX="1346" posY="0" anchorX="0" anchorY="0" width="25" height="17"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="4" posX="1372" posY="0" anchorX="0" anchorY="0" width="25" height="17"/>
+  <instance name="EnemyBlobBossJumpCube_Sprite" index="0" posX="1398" posY="0" anchorX="0" anchorY="0" width="25" height="17"/>
+  <instance name="EnemyBlobBossAirCube_Sprite" index="0" posX="1424" posY="0" anchorX="0" anchorY="0" width="25" height="17"/>
+  <instance name="EnemyPlatformButton_Sprite" index="3" posX="1450" posY="0" anchorX="-20" anchorY="-6.2" width="33" height="13"/>
+  <instance name="EnemyPlatformButton_Sprite" index="5" posX="1484" posY="0" anchorX="-20" anchorY="-6.2" width="33" height="13"/>
+  <instance name="EnemyPlantHeadIdle_Sprite" index="0" posX="1518" posY="0" anchorX="-16" anchorY="-5" width="25" height="18"/>
+  <instance name="EnemyPlantHeadIdle_Sprite" index="2" posX="1544" posY="0" anchorX="-16" anchorY="-5" width="25" height="18"/>
+  <instance name="EnemyPlantHeadIdle_Sprite" index="4" posX="1570" posY="0" anchorX="-16" anchorY="-5" width="25" height="18"/>
+  <instance name="EnemyPlantHeadAttack_Sprite" index="4" posX="1596" posY="0" anchorX="-16" anchorY="-5" width="25" height="18"/>
+  <instance name="EnemyPlantHeadAttack_Sprite" index="0" posX="1622" posY="0" anchorX="-12" anchorY="-9" width="33" height="14"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="1" posX="1656" posY="0" anchorX="0" anchorY="0.95" width="25" height="19"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="3" posX="1682" posY="0" anchorX="0" anchorY="0.95" width="25" height="19"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="2" posX="1708" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="3" posX="1731" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="4" posX="1754" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="LastBossOrbProjectile_Sprite" index="5" posX="1777" posY="0" anchorX="11" anchorY="11" width="22" height="22"/>
+  <instance name="EnemyBlobBossIdleCube_Sprite" index="2" posX="1800" posY="0" anchorX="0" anchorY="2.45" width="25" height="22"/>
+  <instance name="EnemySpikeTrap_Sprite" index="5" posX="1826" posY="0" anchorX="0" anchorY="-11" width="30" height="19"/>
+  <instance name="EnemySpark_Sprite" index="1" posX="1857" posY="0" anchorX="13" anchorY="13" width="24" height="25"/>
+  <instance name="HomingProjectile_Sprite" index="0" posX="1882" posY="0" anchorX="11.5" anchorY="8.2" width="38" height="16"/>
+  <instance name="EnemyPlatformButton_Sprite" index="2" posX="1921" posY="0" anchorX="-20" anchorY="-3" width="33" height="19"/>
+  <instance name="EnemyPlatformButton_Sprite" index="6" posX="1955" posY="0" anchorX="-20" anchorY="-3" width="33" height="19"/>
+  <instance name="ArrowProjectile_Sprite" index="0" posX="1989" posY="0" anchorX="26.5" anchorY="6.1" width="53" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="2" posX="0" posY="15" anchorX="-8" anchorY="-7" width="57" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="7" posX="58" posY="13" anchorX="-8" anchorY="-7" width="57" height="12"/>
+  <instance name="EnemyPlatformButton_Sprite" index="1" posX="116" posY="15" anchorX="-20" anchorY="-2" width="33" height="21"/>
+  <instance name="EnemyPlatformButton_Sprite" index="7" posX="150" posY="15" anchorX="-20" anchorY="-2" width="33" height="21"/>
+  <instance name="EnemySpark_Sprite" index="2" posX="184" posY="10" anchorX="14" anchorY="13" width="28" height="26"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="1" posX="213" posY="10" anchorX="9.95" anchorY="36.75" width="19" height="39"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="5" posX="233" posY="9" anchorX="9.95" anchorY="36.75" width="19" height="39"/>
+  <instance name="EnemySpark_Sprite" index="0" posX="253" posY="9" anchorX="14" anchorY="13" width="28" height="27"/>
+  <instance name="EnemyPlatformButton_Sprite" index="0" posX="282" posY="9" anchorX="-20" anchorY="-1" width="33" height="23"/>
+  <instance name="EnemyPlatformButton_Sprite" index="8" posX="316" posY="20" anchorX="-20" anchorY="-1" width="33" height="23"/>
+  <instance name="EnemyPlantBodyAttack_Sprite" index="3" posX="350" posY="20" anchorX="-12" anchorY="-7" width="34" height="23"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="3" posX="385" posY="21" anchorX="42" anchorY="-15" width="27" height="29"/>
+  <instance name="EnemySpikeTrap_Sprite" index="3" posX="413" posY="21" anchorX="0" anchorY="-2" width="30" height="28"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="3" posX="444" posY="23" anchorX="42" anchorY="-14" width="28" height="30"/>
+  <instance name="HomingProjectile_Sprite" index="1" posX="473" posY="18" anchorX="26.5" anchorY="8.2" width="53" height="16"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="2" posX="527" posY="23" anchorX="42" anchorY="-12" width="27" height="32"/>
+  <instance name="EnemySpikeTrap_Sprite" index="2" posX="555" posY="23" anchorX="0" anchorY="-1" width="30" height="29"/>
+  <instance name="EnemySpikeTrap_Sprite" index="4" posX="586" posY="19" anchorX="0" anchorY="-1" width="30" height="29"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="3" posX="617" posY="21" anchorX="0" anchorY="-7.2" width="73" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="5" posX="691" posY="21" anchorX="0" anchorY="-7" width="73" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="6" posX="765" posY="21" anchorX="0" anchorY="-7.2" width="73" height="12"/>
+  <instance name="EnemyPlatformPlatform_Sprite" index="4" posX="839" posY="21" anchorX="0.7" anchorY="-7" width="74" height="12"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="2" posX="914" posY="21" anchorX="15.2" anchorY="15.7" width="30" height="30"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="3" posX="945" posY="15" anchorX="15.2" anchorY="15.7" width="30" height="30"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="6" posX="976" posY="15" anchorX="15.2" anchorY="15.7" width="30" height="30"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="7" posX="1007" posY="21" anchorX="15.2" anchorY="15.7" width="30" height="30"/>
+  <instance name="EnemyStarburstAttackSpikes_Sprite" index="1" posX="1038" posY="21" anchorX="15.25" anchorY="15.25" width="30" height="30"/>
+  <instance name="EnemyStarburstAttackSpikes_Sprite" index="2" posX="1069" posY="20" anchorX="15.25" anchorY="15.25" width="30" height="30"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="2" posX="1100" posY="20" anchorX="42" anchorY="-11" width="28" height="33"/>
+  <instance name="EnemyHomingTurret_Sprite" index="2" posX="1129" posY="13" anchorX="36.35" anchorY="0.19999999999999996" width="31" height="30"/>
+  <instance name="EnemyHomingTurret_Sprite" index="3" posX="1161" posY="13" anchorX="36.35" anchorY="0.19999999999999996" width="31" height="30"/>
+  <instance name="EnemyHomingTurret_Sprite" index="1" posX="1193" posY="13" anchorX="36.35" anchorY="0.19999999999999996" width="32" height="30"/>
+  <instance name="EnemyHomingTurret_Sprite" index="4" posX="1226" posY="21" anchorX="36.35" anchorY="0.19999999999999996" width="33" height="30"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="1" posX="1260" posY="21" anchorX="42" anchorY="-8" width="28" height="36"/>
+  <instance name="EnemyHomingTurret_Sprite" index="5" posX="1289" posY="13" anchorX="36.35" anchorY="0.19999999999999996" width="34" height="30"/>
+  <instance name="EnemyStarburstAttackSpikes_Sprite" index="0" posX="1324" posY="18" anchorX="16.25" anchorY="16.25" width="32" height="32"/>
+  <instance name="EnemyPlantBodyAttack_Sprite" index="2" posX="1357" posY="18" anchorX="-7" anchorY="-5" width="42" height="25"/>
+  <instance name="EnemyHomingTurret_Sprite" index="6" posX="1400" posY="18" anchorX="36.35" anchorY="0.19999999999999996" width="35" height="30"/>
+  <instance name="EnemyNinjaBodyAttack_Sprite" index="0" posX="1436" posY="18" anchorX="0" anchorY="-1" width="27" height="39"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="0" posX="1464" posY="14" anchorX="16.2" anchorY="16.7" width="32" height="33"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="1" posX="1497" posY="19" anchorX="16.2" anchorY="16.7" width="32" height="33"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="4" posX="1530" posY="19" anchorX="16.2" anchorY="16.7" width="32" height="33"/>
+  <instance name="EnemyStarburstIdleSpike_Sprite" index="5" posX="1563" posY="19" anchorX="16.2" anchorY="16.7" width="32" height="33"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="1" posX="1596" posY="19" anchorX="42" anchorY="-7" width="29" height="37"/>
+  <instance name="EnemyPlantBodyIdle_Sprite" index="1" posX="1626" posY="20" anchorX="-7" anchorY="-3" width="40" height="27"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="3" posX="1667" posY="20" anchorX="32" anchorY="-4" width="30" height="36"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="5" posX="1698" posY="23" anchorX="32" anchorY="-4" width="30" height="36"/>
+  <instance name="EnemyHomingTurret_Sprite" index="0" posX="1729" posY="23" anchorX="36.35" anchorY="0.19999999999999996" width="36" height="30"/>
+  <instance name="EnemyHomingTurret_Sprite" index="7" posX="1766" posY="23" anchorX="36.35" anchorY="0.19999999999999996" width="36" height="30"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="2" posX="1803" posY="23" anchorX="33" anchorY="-5" width="31" height="35"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="6" posX="1835" posY="26" anchorX="33" anchorY="-5" width="31" height="35"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="4" posX="1867" posY="26" anchorX="31" anchorY="-2" width="29" height="38"/>
+  <instance name="EnemyPlantBodyAttack_Sprite" index="4" posX="1897" posY="20" anchorX="-9" anchorY="0" width="38" height="30"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="9" posX="1936" posY="20" anchorX="8" anchorY="32" width="30" height="38"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="3" posX="1967" posY="20" anchorX="32" anchorY="-3" width="31" height="37"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="5" posX="1999" posY="13" anchorX="32" anchorY="-3" width="31" height="37"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="8" posX="0" posY="28" anchorX="34" anchorY="-6" width="32" height="36"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="2" posX="33" posY="28" anchorX="33" anchorY="-4" width="32" height="36"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="6" posX="66" posY="26" anchorX="33" anchorY="-4" width="32" height="36"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="1" posX="99" posY="37" anchorX="34" anchorY="-4" width="32" height="36"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="7" posX="132" posY="37" anchorX="34" anchorY="-4" width="32" height="36"/>
+  <instance name="EnemySkeletonArcherIdle_Sprite" index="3" posX="165" posY="37" anchorX="37.95" anchorY="-4" width="35" height="33"/>
+  <instance name="EnergonDownSwordProjectile_Sprite" index="0" posX="201" posY="50" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="EnergonDownSwordProjectile_Sprite" index="1" posX="236" posY="49" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="EnergonDownSwordProjectile_Sprite" index="2" posX="271" posY="37" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="EnergonDownSwordProjectile_Sprite" index="3" posX="306" posY="44" anchorX="17" anchorY="17" width="34" height="34"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="4" posX="341" posY="44" anchorX="31" anchorY="-1" width="30" height="39"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="1" posX="372" posY="51" anchorX="6" anchorY="34" width="31" height="38"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="7" posX="404" posY="51" anchorX="34" anchorY="-5" width="32" height="37"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="9" posX="437" posY="54" anchorX="34" anchorY="-5" width="32" height="37"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="0" posX="470" posY="54" anchorX="34" anchorY="-4" width="32" height="38"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="6" posX="503" posY="56" anchorX="34" anchorY="-4" width="32" height="38"/>
+  <instance name="EnemyEnergonTintWalk_Sprite" index="0" posX="536" posY="56" anchorX="34" anchorY="-2" width="32" height="38"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="0" posX="569" posY="53" anchorX="45" anchorY="-6" width="32" height="38"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="8" posX="602" posY="49" anchorX="34" anchorY="-5" width="33" height="37"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="1" posX="636" posY="34" anchorX="34" anchorY="-3" width="33" height="37"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="7" posX="670" posY="34" anchorX="34" anchorY="-3" width="33" height="37"/>
+  <instance name="EnergonSwordProjectile_Sprite" index="0" posX="704" posY="34" anchorX="18" anchorY="17" width="36" height="34"/>
+  <instance name="EnergonSwordProjectile_Sprite" index="1" posX="741" posY="34" anchorX="18" anchorY="17" width="36" height="34"/>
+  <instance name="EnergonSwordProjectile_Sprite" index="2" posX="778" posY="34" anchorX="18" anchorY="17" width="36" height="34"/>
+  <instance name="EnergonSwordProjectile_Sprite" index="3" posX="815" posY="34" anchorX="18" anchorY="17" width="36" height="34"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="1" posX="852" posY="34" anchorX="34" anchorY="-3" width="32" height="39"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="5" posX="885" posY="52" anchorX="34" anchorY="-3" width="32" height="39"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="7" posX="918" posY="52" anchorX="34" anchorY="-4" width="33" height="38"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="9" posX="952" posY="46" anchorX="34" anchorY="-4" width="33" height="38"/>
+  <instance name="EnemySkeletonArcherIdle_Sprite" index="2" posX="986" posY="52" anchorX="38.95" anchorY="-4" width="37" height="34"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="2" posX="1024" posY="52" anchorX="34" anchorY="-2" width="32" height="40"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="3" posX="1057" posY="52" anchorX="34" anchorY="-2" width="32" height="40"/>
+  <instance name="EnemyEnergonTintIdle_Sprite" index="4" posX="1090" posY="54" anchorX="34" anchorY="-2" width="32" height="40"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="0" posX="1123" posY="54" anchorX="34" anchorY="-3" width="33" height="39"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="6" posX="1157" posY="44" anchorX="34" anchorY="-3" width="33" height="39"/>
+  <instance name="EnemyEnergonWalk_Sprite" index="0" posX="1191" posY="44" anchorX="34" anchorY="-1" width="33" height="39"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="0" posX="1225" posY="52" anchorX="45" anchorY="-5" width="33" height="39"/>
+  <instance name="EnemyPlantBodyIdle_Sprite" index="0" posX="1259" posY="58" anchorX="-1" anchorY="-1" width="45" height="29"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="2" posX="1305" posY="51" anchorX="9.95" anchorY="66.75" width="19" height="69"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="4" posX="1325" posY="51" anchorX="9.95" anchorY="66.75" width="19" height="69"/>
+  <instance name="EnemyPlantBodyIdle_Sprite" index="2" posX="1345" posY="51" anchorX="-12" anchorY="0" width="44" height="30"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="1" posX="1390" posY="49" anchorX="34" anchorY="-2" width="33" height="40"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="5" posX="1424" posY="58" anchorX="34" anchorY="-2" width="33" height="40"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="4" posX="1458" posY="58" anchorX="0" anchorY="-5" width="36" height="37"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="5" posX="1495" posY="53" anchorX="0" anchorY="-5" width="36" height="37"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="6" posX="1532" posY="53" anchorX="0" anchorY="-5" width="36" height="37"/>
+  <instance name="EnemySkeletonArcherIdle_Sprite" index="4" posX="1569" posY="57" anchorX="38.95" anchorY="-2" width="37" height="36"/>
+  <instance name="EnemyPlantBodyIdle_Sprite" index="3" posX="1607" posY="57" anchorX="-9" anchorY="-1" width="46" height="29"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="2" posX="1654" posY="57" anchorX="34" anchorY="-1" width="33" height="41"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="3" posX="1688" posY="60" anchorX="34" anchorY="-1" width="33" height="41"/>
+  <instance name="EnemyEnergonIdle_Sprite" index="4" posX="1722" posY="60" anchorX="34" anchorY="-1" width="33" height="41"/>
+  <instance name="EnemyNinjaBodyThrow_Sprite" index="1" posX="1756" posY="54" anchorX="-1" anchorY="-2" width="34" height="40"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="3" posX="1791" posY="59" anchorX="0" anchorY="-4" width="36" height="38"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="2" posX="1828" posY="62" anchorX="0" anchorY="-3" width="36" height="39"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="7" posX="1865" posY="65" anchorX="0" anchorY="-3" width="36" height="39"/>
+  <instance name="EnemySkeletonArcherIdle_Sprite" index="1" posX="1902" posY="59" anchorX="39.95" anchorY="-2" width="39" height="36"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="2" posX="1942" posY="59" anchorX="-5" anchorY="-2" width="37" height="38"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="5" posX="1980" posY="58" anchorX="-5" anchorY="-2" width="37" height="38"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="6" posX="0" posY="65" anchorX="48" anchorY="-3" width="35" height="41"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="3" posX="36" posY="65" anchorX="-5" anchorY="-1" width="37" height="39"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="4" posX="74" posY="74" anchorX="-5" anchorY="0" width="37" height="39"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="0" posX="112" posY="74" anchorX="13" anchorY="31" width="39" height="37"/>
+  <instance name="EnemySkeletonArcherIdle_Sprite" index="0" posX="152" posY="74" anchorX="39.95" anchorY="-1" width="39" height="37"/>
+  <instance name="EnemyPlantBodyAttack_Sprite" index="1" posX="192" posY="85" anchorX="-1" anchorY="-3" width="54" height="27"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="4" posX="247" posY="84" anchorX="9" anchorY="38" width="34" height="43"/>
+  <instance name="EnemyPlantBodyIdle_Sprite" index="4" posX="282" posY="79" anchorX="0" anchorY="0" width="49" height="30"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="6" posX="332" posY="84" anchorX="48" anchorY="-2" width="35" height="42"/>
+  <instance name="EnemyNinjaBodyThrow_Sprite" index="0" posX="368" posY="90" anchorX="-2" anchorY="-1" width="36" height="41"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="0" posX="405" posY="92" anchorX="0" anchorY="-1" width="36" height="41"/>
+  <instance name="EnemyNinjaBodyIdle_Sprite" index="1" posX="442" posY="93" anchorX="0" anchorY="-1" width="36" height="41"/>
+  <instance name="EnemyNinjaBodyThrow_Sprite" index="3" posX="479" posY="95" anchorX="0" anchorY="-4" width="40" height="38"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="1" posX="520" posY="95" anchorX="0" anchorY="0" width="42" height="38"/>
+  <instance name="EnemyNinjaBodyThrow_Sprite" index="2" posX="563" posY="95" anchorX="-1" anchorY="-3" width="41" height="39"/>
+  <instance name="EnemyNinjaBodyRun_Sprite" index="0" posX="605" posY="87" anchorX="-1" anchorY="-1" width="41" height="39"/>
+  <instance name="EnemyNinjaBodyThrow_Sprite" index="4" posX="647" posY="72" anchorX="-1" anchorY="-2" width="40" height="40"/>
+  <instance name="EnemyPlantBodyAttack_Sprite" index="0" posX="688" posY="72" anchorX="0" anchorY="-1" width="56" height="29"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="3" posX="745" posY="69" anchorX="12" anchorY="38" width="38" height="43"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="2" posX="784" posY="69" anchorX="12" anchorY="37" width="39" height="43"/>
+  <instance name="EnemyPortrait_Sprite" index="0" posX="824" posY="74" anchorX="18.35" anchorY="24.5" width="36" height="49"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="6" posX="861" posY="92" anchorX="17" anchorY="38" width="42" height="43"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="5" posX="904" posY="92" anchorX="48" anchorY="-1" width="43" height="43"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="7" posX="948" posY="91" anchorX="18" anchorY="38" width="43" height="43"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="8" posX="992" posY="93" anchorX="19" anchorY="39" width="43" height="43"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="5" posX="1036" posY="93" anchorX="48" anchorY="0" width="43" height="44"/>
+  <instance name="EnemySkeletonArcherAttack_Sprite" index="5" posX="1080" posY="95" anchorX="9" anchorY="38" width="44" height="43"/>
+  <instance name="LastBossSwordProjectile_Sprite" index="1" posX="1125" posY="94" anchorX="37.55" anchorY="13.2" width="73" height="26"/>
+  <instance name="LastBossSwordVerticalProjectile_Sprite" index="0" posX="1199" posY="92" anchorX="13.2" anchorY="36" width="26" height="73"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="3" posX="1226" posY="92" anchorX="9.95" anchorY="98.75" width="19" height="101"/>
+  <instance name="LastBossSwordProjectile_Sprite" index="0" posX="1246" posY="121" anchorX="37.55" anchorY="13.2" width="74" height="26"/>
+  <instance name="Dummy_Sprite" index="0" posX="1321" posY="121" anchorX="40" anchorY="0" width="40" height="51"/>
+  <instance name="EnemyEnergonTintAttack_Sprite" index="4" posX="1362" posY="90" anchorX="48" anchorY="-1" width="48" height="43"/>
+  <instance name="DummySad_Sprite" index="1" posX="1411" posY="99" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="3" posX="1452" posY="99" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="5" posX="1493" posY="96" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="7" posX="1534" posY="94" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="9" posX="1575" posY="94" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="11" posX="1616" posY="99" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="DummySad_Sprite" index="12" posX="1657" posY="102" anchorX="40" anchorY="0.65" width="40" height="52"/>
+  <instance name="EnemyEnergonAttack_Sprite" index="4" posX="1698" posY="102" anchorX="48" anchorY="0" width="48" height="44"/>
+  <instance name="DummySad_Sprite" index="0" posX="1747" posY="102" anchorX="42.55" anchorY="0.30000000000000004" width="41" height="52"/>
+  <instance name="DummySad_Sprite" index="2" posX="1789" posY="102" anchorX="39" anchorY="0.19999999999999996" width="41" height="52"/>
+  <instance name="DummySad_Sprite" index="4" posX="1831" posY="105" anchorX="42.55" anchorY="0.30000000000000004" width="41" height="52"/>
+  <instance name="DummySad_Sprite" index="6" posX="1873" posY="105" anchorX="39" anchorY="0.19999999999999996" width="41" height="52"/>
+  <instance name="DummySad_Sprite" index="8" posX="1915" posY="98" anchorX="42.55" anchorY="0.30000000000000004" width="41" height="52"/>
+  <instance name="DummySad_Sprite" index="10" posX="1957" posY="98" anchorX="39" anchorY="0.19999999999999996" width="41" height="52"/>
+  <instance name="EnemyShieldKnightTurnOutTrim_Sprite" index="0" posX="1999" posY="97" anchorX="75" anchorY="-2" width="31" height="75"/>
+  <instance name="EnemyShieldKnightTurnInTrim_Sprite" index="3" posX="0" posY="107" anchorX="75" anchorY="-2" width="31" height="75"/>
+  <instance name="Log_Sprite" index="0" posX="32" posY="114" anchorX="28" anchorY="22" width="56" height="46"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="7" posX="89" posY="114" anchorX="73" anchorY="-4" width="39" height="73"/>
+  <instance name="EnemyShieldKnightTurnOutTrim_Sprite" index="1" posX="129" posY="112" anchorX="78" anchorY="-2" width="40" height="75"/>
+  <instance name="EnemyShieldKnightTurnInTrim_Sprite" index="2" posX="170" posY="113" anchorX="78" anchorY="-2" width="40" height="75"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="8" posX="211" posY="128" anchorX="74" anchorY="-2" width="40" height="75"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="6" posX="252" posY="128" anchorX="73" anchorY="-3" width="43" height="74"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="5" posX="296" posY="127" anchorX="74" anchorY="-1" width="47" height="76"/>
+  <instance name="EnemyEyeballBossPupilFire_Sprite" index="0" posX="344" posY="132" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnemyEyeballBossPupil_Sprite" index="0" posX="405" posY="135" anchorX="30" anchorY="30" width="60" height="60"/>
+  <instance name="EnemyShieldKnightTurnOutTrim_Sprite" index="2" posX="466" posY="135" anchorX="77" anchorY="-2" width="49" height="75"/>
+  <instance name="EnemyShieldKnightTurnInTrim_Sprite" index="1" posX="516" posY="135" anchorX="77" anchorY="-2" width="49" height="75"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="4" posX="566" posY="135" anchorX="75" anchorY="0" width="49" height="77"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="9" posX="616" posY="127" anchorX="75" anchorY="0" width="49" height="77"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="6" posX="666" posY="113" anchorX="76" anchorY="-3" width="52" height="74"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="5" posX="719" posY="113" anchorX="76" anchorY="-2" width="52" height="75"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="7" posX="772" posY="124" anchorX="76" anchorY="-2" width="52" height="75"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="3" posX="825" posY="136" anchorX="76" anchorY="-2" width="52" height="75"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="2" posX="878" posY="136" anchorX="78" anchorY="-4" width="54" height="73"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="0" posX="933" posY="136" anchorX="76" anchorY="-1" width="52" height="76"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="1" posX="986" posY="138" anchorX="76" anchorY="-1" width="52" height="76"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="4" posX="1039" posY="139" anchorX="76" anchorY="-1" width="52" height="76"/>
+  <instance name="EnemyShieldKnightTurnOutTrim_Sprite" index="3" posX="1092" posY="139" anchorX="76" anchorY="-1" width="52" height="76"/>
+  <instance name="EnemyShieldKnightTurnInTrim_Sprite" index="0" posX="1145" posY="121" anchorX="76" anchorY="-1" width="52" height="76"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="1" posX="1198" posY="194" anchorX="78" anchorY="-3" width="54" height="74"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="2" posX="1253" posY="148" anchorX="76" anchorY="0" width="52" height="77"/>
+  <instance name="EnemyShieldKnightIdleTrim_Sprite" index="3" posX="1306" posY="173" anchorX="76" anchorY="0" width="52" height="77"/>
+  <instance name="EnemyShieldKnightWalkTrim_Sprite" index="0" posX="1359" posY="173" anchorX="77" anchorY="-1" width="53" height="76"/>
+  <instance name="EnemyShieldKnightTurnOut_Sprite" index="0" posX="1413" posY="152" anchorX="75" anchorY="-2" width="58" height="78"/>
+  <instance name="EnemyShieldKnightTurnIn_Sprite" index="3" posX="1472" posY="152" anchorX="75" anchorY="-2" width="58" height="78"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="0" posX="1531" posY="149" anchorX="10.95" anchorY="106.75" width="22" height="210"/>
+  <instance name="LastBossSpearProjectile_Sprite" index="6" posX="1554" posY="147" anchorX="10.95" anchorY="106.75" width="22" height="210"/>
+  <instance name="EnemyBlobBossJumpGel_Sprite" index="3" posX="1577" posY="155" anchorX="-12.55" anchorY="-90.25" width="139" height="35"/>
+  <instance name="EnemyShieldKnightTurnOut_Sprite" index="1" posX="1717" posY="155" anchorX="78" anchorY="-2" width="63" height="78"/>
+  <instance name="EnemyShieldKnightTurnIn_Sprite" index="2" posX="1781" posY="158" anchorX="78" anchorY="-2" width="63" height="78"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="5" posX="1845" posY="158" anchorX="-17.5" anchorY="-22.35" width="108" height="46"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="7" posX="0" posY="188" anchorX="-17.5" anchorY="-22.35" width="108" height="46"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="2" posX="109" posY="189" anchorX="-28" anchorY="-11.2" width="87" height="58"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="6" posX="197" posY="204" anchorX="-14" anchorY="-24.5" width="115" height="44"/>
+  <instance name="EnemyBlobBossJumpGel_Sprite" index="2" posX="313" posY="204" anchorX="-15.45" anchorY="-86.75" width="133" height="39"/>
+  <instance name="EnemyBlobBossJumpGel_Sprite" index="1" posX="447" posY="211" anchorX="-26.55" anchorY="-78.4" width="111" height="47"/>
+  <instance name="EnemyBlobBossJumpGel_Sprite" index="4" posX="559" posY="213" anchorX="-26.55" anchorY="-78.4" width="111" height="47"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="7" posX="671" posY="189" anchorX="73" anchorY="-4" width="69" height="76"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="1" posX="741" posY="212" anchorX="-23.8" anchorY="-14" width="96" height="55"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="3" posX="838" posY="213" anchorX="-23.8" anchorY="-14" width="96" height="55"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="6" posX="935" posY="215" anchorX="73" anchorY="-3" width="69" height="77"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="8" posX="1005" posY="216" anchorX="74" anchorY="-2" width="70" height="78"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="15" posX="1076" posY="216" anchorX="114" anchorY="-37" width="114" height="49"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="16" posX="1191" posY="269" anchorX="114" anchorY="-37" width="114" height="49"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="5" posX="1306" posY="251" anchorX="74" anchorY="-1" width="71" height="79"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="0" posX="1378" posY="250" anchorX="-18.95" anchorY="-16.1" width="106" height="53"/>
+  <instance name="EnemyBlobBossIdleGel_Sprite" index="4" posX="1485" posY="360" anchorX="-18.95" anchorY="-16.1" width="106" height="53"/>
+  <instance name="EnemyShieldKnightTurnOut_Sprite" index="2" posX="1592" posY="191" anchorX="77" anchorY="-2" width="73" height="78"/>
+  <instance name="EnemyShieldKnightTurnIn_Sprite" index="1" posX="1666" posY="234" anchorX="77" anchorY="-2" width="73" height="78"/>
+  <instance name="EnemyBlobBossJumpGel_Sprite" index="0" posX="1740" posY="237" anchorX="-28.7" anchorY="-71.4" width="107" height="54"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="14" posX="1848" posY="205" anchorX="118" anchorY="-37" width="118" height="49"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="4" posX="1967" posY="173" anchorX="75" anchorY="0" width="73" height="80"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="9" posX="0" posY="235" anchorX="75" anchorY="0" width="73" height="80"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="6" posX="74" posY="248" anchorX="76" anchorY="-3" width="76" height="77"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="5" posX="151" posY="249" anchorX="76" anchorY="-2" width="76" height="78"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="7" posX="228" posY="249" anchorX="76" anchorY="-2" width="76" height="78"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="2" posX="305" posY="249" anchorX="78" anchorY="-4" width="78" height="76"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="3" posX="384" posY="259" anchorX="76" anchorY="-2" width="76" height="78"/>
+  <instance name="EnemyLastBossRun_Sprite" index="0" posX="461" posY="259" anchorX="79" anchorY="0" width="75" height="80"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="0" posX="537" posY="261" anchorX="76" anchorY="-1" width="76" height="79"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="1" posX="614" posY="266" anchorX="76" anchorY="-1" width="76" height="79"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="4" posX="691" posY="268" anchorX="76" anchorY="-1" width="76" height="79"/>
+  <instance name="EnemyShieldKnightTurnOut_Sprite" index="3" posX="768" posY="269" anchorX="76" anchorY="-1" width="76" height="79"/>
+  <instance name="EnemyShieldKnightTurnIn_Sprite" index="0" posX="845" posY="269" anchorX="76" anchorY="-1" width="76" height="79"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="1" posX="922" posY="293" anchorX="78" anchorY="-3" width="78" height="77"/>
+  <instance name="EnemyLastBossRun_Sprite" index="3" posX="1001" posY="295" anchorX="79" anchorY="0" width="74" height="82"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="9" posX="1076" posY="266" anchorX="74" anchorY="-8" width="74" height="82"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="2" posX="1151" posY="319" anchorX="76" anchorY="0" width="76" height="80"/>
+  <instance name="EnemyShieldKnightIdle_Sprite" index="3" posX="1228" posY="319" anchorX="76" anchorY="0" width="76" height="80"/>
+  <instance name="EnemyShieldKnightWalk_Sprite" index="0" posX="1305" posY="331" anchorX="77" anchorY="-1" width="77" height="79"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="12" posX="1383" posY="414" anchorX="121" anchorY="-35" width="120" height="51"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="13" posX="1504" posY="414" anchorX="123" anchorY="-36" width="123" height="50"/>
+  <instance name="EnemyLastBossDash_Sprite" index="1" posX="1628" posY="313" anchorX="80" anchorY="-7" width="76" height="81"/>
+  <instance name="EnemyLastBossRun_Sprite" index="2" posX="1705" posY="313" anchorX="82" anchorY="-3" width="78" height="79"/>
+  <instance name="EnemyLastBossRun_Sprite" index="5" posX="1784" posY="292" anchorX="82" anchorY="-3" width="78" height="79"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="8" posX="1863" posY="255" anchorX="74" anchorY="-6" width="74" height="84"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="10" posX="1938" posY="255" anchorX="74" anchorY="-6" width="74" height="84"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="1" posX="0" posY="326" anchorX="77" anchorY="-86" width="76" height="82"/>
+  <instance name="EnemyLastBossRun_Sprite" index="4" posX="77" posY="328" anchorX="82" anchorY="-1" width="77" height="81"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="11" posX="155" posY="328" anchorX="74" anchorY="-5" width="74" height="85"/>
+  <instance name="EnemyLastBossRun_Sprite" index="1" posX="230" posY="328" anchorX="82" anchorY="-1" width="78" height="81"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="7" posX="309" posY="326" anchorX="74" anchorY="-4" width="74" height="86"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="0" posX="384" posY="338" anchorX="127" anchorY="0" width="74" height="86"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="0" posX="459" posY="340" anchorX="76" anchorY="-84" width="76" height="84"/>
+  <instance name="EnemyLastBossDash_Sprite" index="3" posX="536" posY="346" anchorX="83" anchorY="-7" width="79" height="81"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="0" posX="616" posY="346" anchorX="74" anchorY="-3" width="74" height="87"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="6" posX="691" posY="348" anchorX="74" anchorY="-3" width="74" height="87"/>
+  <instance name="EnemyLastBossDash_Sprite" index="0" posX="766" posY="349" anchorX="77" anchorY="-3" width="76" height="85"/>
+  <instance name="EnemyLastBossDash_Sprite" index="4" posX="843" posY="349" anchorX="80" anchorY="-3" width="76" height="85"/>
+  <instance name="EnemyLastBossDash_Sprite" index="2" posX="920" posY="371" anchorX="84" anchorY="-7" width="80" height="81"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="1" posX="1001" posY="378" anchorX="74" anchorY="-2" width="74" height="88"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="5" posX="1076" posY="349" anchorX="74" anchorY="-2" width="74" height="88"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="1" posX="1151" posY="400" anchorX="122" anchorY="-1" width="77" height="85"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="2" posX="1229" posY="400" anchorX="74" anchorY="-1" width="74" height="89"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="4" posX="1304" posY="411" anchorX="74" anchorY="-1" width="74" height="89"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="6" posX="1379" posY="466" anchorX="104" anchorY="-2" width="72" height="92"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="7" posX="1452" posY="466" anchorX="104" anchorY="-2" width="72" height="92"/>
+  <instance name="EnemyLastBossIdle_Sprite" index="3" posX="1525" posY="465" anchorX="74" anchorY="0" width="74" height="90"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="4" posX="1600" posY="465" anchorX="123" anchorY="-5" width="83" height="81"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="6" posX="1684" posY="395" anchorX="123" anchorY="-5" width="83" height="81"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="8" posX="1768" posY="393" anchorX="123" anchorY="-5" width="83" height="81"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="11" posX="1852" posY="372" anchorX="120" anchorY="-6" width="85" height="80"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="2" posX="1938" posY="340" anchorX="124" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="3" posX="0" posY="410" anchorX="124" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="5" posX="85" posY="414" anchorX="124" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="7" posX="170" posY="414" anchorX="124" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="9" posX="255" posY="413" anchorX="124" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossDeath_Sprite" index="10" posX="340" posY="425" anchorX="122" anchorY="-4" width="84" height="82"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="0" posX="425" posY="425" anchorX="104" anchorY="-2" width="77" height="92"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="1" posX="503" posY="428" anchorX="107" anchorY="0" width="82" height="94"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="2" posX="586" posY="434" anchorX="109" anchorY="0" width="86" height="94"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="1" posX="673" posY="436" anchorX="152" anchorY="-36" width="72" height="114"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="0" posX="746" posY="436" anchorX="154" anchorY="-38" width="77" height="112"/>
+  <instance name="EnemyBlobBossAirGel_Sprite" index="3" posX="824" posY="435" anchorX="-38.5" anchorY="-16.1" width="85" height="105"/>
+  <instance name="EnemyBlobBossJumpRim_Sprite" index="1" posX="910" posY="467" anchorX="-14" anchorY="-70" width="136" height="66"/>
+  <instance name="EnemyBlobBossJumpRim_Sprite" index="4" posX="1047" posY="486" anchorX="-14" anchorY="-70" width="136" height="66"/>
+  <instance name="EnemyBlobBossAirGel_Sprite" index="0" posX="1184" posY="490" anchorX="-30.05" anchorY="-30.1" width="100" height="91"/>
+  <instance name="EnemyBlobBossAirGel_Sprite" index="1" posX="1285" posY="501" anchorX="-34.3" anchorY="-23.8" width="93" height="98"/>
+  <instance name="EnemyBlobBossJumpRim_Sprite" index="3" posX="1379" posY="559" anchorX="0" anchorY="-80" width="164" height="56"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="2" posX="1544" posY="556" anchorX="-14" anchorY="-1" width="115" height="80"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="3" posX="1660" posY="547" anchorX="111" anchorY="0" width="98" height="94"/>
+  <instance name="EnemyBlobBossJumpRim_Sprite" index="2" posX="1759" posY="477" anchorX="-3" anchorY="-77" width="158" height="59"/>
+  <instance name="EnemyBlobBossAirGel_Sprite" index="2" posX="1918" posY="453" anchorX="-42" anchorY="-4.95" width="79" height="119"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="6" posX="0" posY="497" anchorX="0" anchorY="-15" width="143" height="66"/>
+  <instance name="EnemyBlobBossJumpRim_Sprite" index="0" posX="144" posY="497" anchorX="-17" anchorY="-63" width="130" height="73"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="1" posX="275" posY="508" anchorX="-10" anchorY="-4" width="124" height="77"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="3" posX="400" posY="523" anchorX="-10" anchorY="-4" width="124" height="77"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="2" posX="525" posY="529" anchorX="169" anchorY="-40" width="87" height="110"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="5" posX="613" posY="551" anchorX="-3" anchorY="-11" width="137" height="70"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="7" posX="751" posY="549" anchorX="-3" anchorY="-11" width="137" height="70"/>
+  <instance name="EnemyLastBossTeleport_Sprite" index="0" posX="889" posY="541" anchorX="104" anchorY="-1" width="104" height="93"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="0" posX="994" posY="553" anchorX="-6" anchorY="-7" width="132" height="74"/>
+  <instance name="EnemyBlobBossIdleRim_Sprite" index="4" posX="1127" posY="582" anchorX="-6" anchorY="-7" width="132" height="74"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="3" posX="1260" posY="600" anchorX="174" anchorY="-37" width="87" height="113"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="4" posX="1348" posY="616" anchorX="178" anchorY="-38" width="89" height="112"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="5" posX="1438" posY="637" anchorX="112" anchorY="-2" width="112" height="92"/>
+  <instance name="EnemyLastBossSpell_Sprite" index="4" posX="1551" posY="642" anchorX="115" anchorY="-1" width="113" height="93"/>
+  <instance name="EnemyBlobBossAirRim_Sprite" index="1" posX="1665" posY="642" anchorX="-31" anchorY="-21" width="102" height="108"/>
+  <instance name="EnemyBlobBossAirRim_Sprite" index="3" posX="1768" posY="537" anchorX="-35" anchorY="-10" width="94" height="123"/>
+  <instance name="EnemyBlobBossAirRim_Sprite" index="0" posX="1863" posY="573" anchorX="-24" anchorY="-28" width="116" height="101"/>
+  <instance name="EnemyBlobBossAirRim_Sprite" index="2" posX="0" posY="564" anchorX="-38" anchorY="0" width="88" height="136"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="8" posX="89" posY="571" anchorX="157" anchorY="-67" width="153" height="84"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="7" posX="243" posY="601" anchorX="160" anchorY="-68" width="157" height="83"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="9" posX="401" posY="640" anchorX="156" anchorY="-65" width="154" height="85"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="5" posX="556" posY="640" anchorX="84" anchorY="-5" width="82" height="163"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="6" posX="639" posY="622" anchorX="84" anchorY="-5" width="82" height="163"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="2" posX="722" posY="622" anchorX="93" anchorY="0" width="87" height="168"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="4" posX="810" posY="635" anchorX="92" anchorY="-5" width="90" height="163"/>
+  <instance name="EnemyLastBossSpell2_Sprite" index="3" posX="901" posY="635" anchorX="96" anchorY="-1" width="91" height="167"/>
+  <instance name="EnergonDownSwordShield_Sprite" index="0" posX="993" posY="635" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonDownSwordShield_Sprite" index="1" posX="1122" posY="657" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonDownSwordShield_Sprite" index="2" posX="1251" posY="729" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonDownSwordShield_Sprite" index="3" posX="1380" posY="730" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonSwordShield_Sprite" index="0" posX="1509" posY="736" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonSwordShield_Sprite" index="1" posX="1638" posY="751" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonSwordShield_Sprite" index="2" posX="1767" posY="751" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnergonSwordShield_Sprite" index="3" posX="1896" posY="675" anchorX="64" anchorY="64" width="128" height="128"/>
+  <instance name="EnemyEyeballBossEye_Sprite" index="0" posX="0" posY="701" anchorX="0" anchorY="0" width="135" height="135"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="1" posX="136" posY="685" anchorX="-5" anchorY="-2" width="133" height="139"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="3" posX="270" posY="726" anchorX="-5" anchorY="-2" width="133" height="139"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="5" posX="404" posY="726" anchorX="-2" anchorY="-5" width="139" height="133"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="7" posX="544" posY="804" anchorX="-2" anchorY="-5" width="139" height="133"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="0" posX="684" posY="799" anchorX="-4" anchorY="-4" width="136" height="136"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="4" posX="821" posY="803" anchorX="-4" anchorY="-4" width="136" height="136"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="2" posX="958" posY="803" anchorX="-7" anchorY="0" width="129" height="144"/>
+  <instance name="EnemyEyeballBossFire_Sprite" index="6" posX="1088" posY="786" anchorX="0" anchorY="-8" width="144" height="129"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="6" posX="1233" posY="859" anchorX="160" anchorY="-12" width="157" height="140"/>
+  <instance name="EnemyLastBossAttack_Sprite" index="5" posX="1391" posY="865" anchorX="173" anchorY="-1" width="172" height="149"/>
+  <animation frame="1" name="EnemyShieldKnightIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyShieldKnightIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyShieldKnightIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyShieldKnightIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemyShieldKnightIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemyShieldKnightIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemyShieldKnightIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemyShieldKnightIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyShieldKnightIdleTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyShieldKnightIdleTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyShieldKnightIdleTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyShieldKnightIdleTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyShieldKnightIdleTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyShieldKnightIdleTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyShieldKnightIdleTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyShieldKnightIdleTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemyShieldKnightTurnOut_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyShieldKnightTurnOut_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyShieldKnightTurnOut_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyShieldKnightTurnOut_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyShieldKnightTurnOutTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyShieldKnightTurnOutTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyShieldKnightTurnOutTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyShieldKnightTurnOutTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="EnemyShieldKnightTurnIn_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyShieldKnightTurnIn_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyShieldKnightTurnIn_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyShieldKnightTurnIn_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="51" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="55" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyShieldKnightTurnInTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyShieldKnightTurnInTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyShieldKnightTurnInTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyShieldKnightTurnInTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="EnemyShieldKnightWalk_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyShieldKnightWalk_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyShieldKnightWalk_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyShieldKnightWalk_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemyShieldKnightWalk_Sprite" index="4" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemyShieldKnightWalk_Sprite" index="5" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemyShieldKnightWalk_Sprite" index="6" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemyShieldKnightWalk_Sprite" index="7" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="9" name="EnemyShieldKnightWalk_Sprite" index="8" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="10" name="EnemyShieldKnightWalk_Sprite" index="9" duration="1" label="">
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="1"/>
+    <rectangle x="-70" y="10" width="65" height="72" rotation="0" type="0"/>
+    <rectangle x="-70" y="8" width="65" height="72" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyShieldKnightWalkTrim_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyShieldKnightWalkTrim_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyShieldKnightWalkTrim_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyShieldKnightWalkTrim_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyShieldKnightWalkTrim_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyShieldKnightWalkTrim_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyShieldKnightWalkTrim_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyShieldKnightWalkTrim_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemyShieldKnightWalkTrim_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemyShieldKnightWalkTrim_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="EnemySpikeTrap_Sprite" index="0" duration="1" label="Hidden"/>
+  <animation frame="2" name="EnemySpikeTrap_Sprite" index="1" duration="1" label="StartExtract"/>
+  <animation frame="3" name="EnemySpikeTrap_Sprite" index="2" duration="1" label="">
+    <rectangle x="4" y="4" width="21" height="22" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySpikeTrap_Sprite" index="3" duration="1" label="ExtractComplete">
+    <rectangle x="4" y="4" width="21" height="22" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySpikeTrap_Sprite" index="4" duration="1" label="StartRetract">
+    <rectangle x="4" y="4" width="21" height="22" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySpikeTrap_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemySpikeTrap_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemySpikeTrap_Sprite" index="7" duration="1" label="RetractComplete"/>
+  <animation frame="1" name="EnemySpark_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="0"/>
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySpark_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="0"/>
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySpark_Sprite" index="2" duration="1" label="">
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="0"/>
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySpark_Sprite" index="3" duration="1" label="">
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="0"/>
+    <rectangle x="-7" y="-7" width="15" height="15" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyNinjaBodyThrow_Sprite" index="0" duration="1" label="">
+    <rectangle x="3" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="3" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="9" y="2" width="22" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyNinjaBodyThrow_Sprite" index="1" duration="1" label="">
+    <rectangle x="3" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="3" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="9" y="2" width="22" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyNinjaBodyThrow_Sprite" index="2" duration="1" label="">
+    <rectangle x="3" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="3" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="9" y="2" width="22" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyNinjaBodyThrow_Sprite" index="3" duration="1" label="">
+    <rectangle x="3" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="3" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="9" y="2" width="22" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyNinjaBodyThrow_Sprite" index="4" duration="1" label="">
+    <rectangle x="3" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="3" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="9" y="2" width="22" height="40" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyNinjaHeadThrow_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyNinjaHeadThrow_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyNinjaHeadThrow_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyNinjaHeadThrow_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyNinjaHeadThrow_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="EnemyNinjaBodyRun_Sprite" index="0" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyNinjaBodyRun_Sprite" index="1" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyNinjaBodyRun_Sprite" index="2" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyNinjaBodyRun_Sprite" index="3" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyNinjaBodyRun_Sprite" index="4" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyNinjaBodyRun_Sprite" index="5" duration="1" label="">
+    <rectangle x="5" y="4" width="33" height="35" rotation="0" type="2"/>
+    <rectangle x="5" y="6" width="33" height="35" rotation="0" type="0"/>
+    <rectangle x="10" y="6" width="22" height="19" rotation="0" type="1"/>
+    <rectangle x="11" y="26" width="13" height="13" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyNinjaHeadRun_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="EnemyNinjaHeadRun_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="EnemyNinjaHeadRun_Sprite" index="2" duration="2" label=""/>
+  <animation frame="6" name="EnemyNinjaHeadRun_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="EnemyNinjaBodyIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyNinjaBodyIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyNinjaBodyIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyNinjaBodyIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyNinjaBodyIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyNinjaBodyIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyNinjaBodyIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyNinjaBodyIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="1" y="2" width="30" height="40" rotation="0" type="2"/>
+    <rectangle x="1" y="3" width="30" height="40" rotation="0" type="0"/>
+    <rectangle x="8" y="2" width="22" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyNinjaHeadIdle_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="EnemyNinjaHeadIdle_Sprite" index="1" duration="1" label=""/>
+  <animation frame="4" name="EnemyNinjaHeadIdle_Sprite" index="2" duration="1" label=""/>
+  <animation frame="5" name="EnemyNinjaHeadIdle_Sprite" index="3" duration="2" label=""/>
+  <animation frame="7" name="EnemyNinjaHeadIdle_Sprite" index="4" duration="1" label=""/>
+  <animation frame="8" name="EnemyNinjaHeadIdle_Sprite" index="5" duration="1" label=""/>
+  <animation frame="1" name="EnemyNinjaBodyAttack_Sprite" index="0" duration="1" label="">
+    <rectangle x="1" y="1" width="21" height="35" rotation="0" type="2"/>
+    <rectangle x="1" y="1" width="21" height="35" rotation="0" type="0"/>
+    <rectangle x="3" y="11" width="18" height="24" rotation="0" type="1"/>
+    <rectangle x="6" y="0" width="14" height="19" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyNinjaHeadAttack_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="ShurikenProjectile1_Sprite" index="0" duration="1" label="">
+    <rectangle x="-9" y="-9" width="18" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyPlantBodyIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="4" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyPlantBodyIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="4" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyPlantBodyIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="4" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyPlantBodyIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="4" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyPlantBodyIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="4" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyPlantHeadIdle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyPlantHeadIdle_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyPlantHeadIdle_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyPlantHeadIdle_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyPlantHeadIdle_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="EnemyPlantBodyAttack_Sprite" index="0" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyPlantBodyAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyPlantBodyAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyPlantBodyAttack_Sprite" index="3" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyPlantBodyAttack_Sprite" index="4" duration="1" label="">
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="2"/>
+    <rectangle x="14" y="6" width="28" height="25" rotation="0" type="0"/>
+    <rectangle x="14" y="5" width="28" height="25" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyPlantHeadAttack_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyPlantHeadAttack_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyPlantHeadAttack_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyPlantHeadAttack_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyPlantHeadAttack_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="PlantProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-8" y="-8" width="16" height="16" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="PlantProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-8" y="-8" width="16" height="16" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyEnergonIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="EnemyEnergonIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="EnemyEnergonIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="EnemyEnergonIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="EnemyEnergonIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="EnemyEnergonIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="EnemyEnergonIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="EnemyEnergonIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="EnemyEnergonIdle_Sprite" index="8" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="EnemyEnergonIdle_Sprite" index="9" duration="1" label="">
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="12" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-19" y="3" width="17" height="18" rotation="0" type="1"/>
+    <rectangle x="-33" y="3" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemyEnergonTintIdle_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyEnergonTintIdle_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyEnergonTintIdle_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyEnergonTintIdle_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyEnergonTintIdle_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyEnergonTintIdle_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyEnergonTintIdle_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyEnergonTintIdle_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemyEnergonTintIdle_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemyEnergonTintIdle_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="EnemyEnergonWalk_Sprite" index="0" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="0" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyEnergonWalk_Sprite" index="1" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="2" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyEnergonWalk_Sprite" index="2" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="2" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyEnergonWalk_Sprite" index="3" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="2" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyEnergonWalk_Sprite" index="4" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-31" y="9" width="23" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="1" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyEnergonWalk_Sprite" index="5" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-31" y="9" width="23" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="3" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyEnergonWalk_Sprite" index="6" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="3" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyEnergonWalk_Sprite" index="7" duration="1" label="">
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="0"/>
+    <rectangle x="-33" y="1" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-33" y="9" width="28" height="30" rotation="0" type="1"/>
+    <rectangle x="-18" y="3" width="17" height="18" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyEnergonTintWalk_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyEnergonTintWalk_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyEnergonTintWalk_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyEnergonTintWalk_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyEnergonTintWalk_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyEnergonTintWalk_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyEnergonTintWalk_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyEnergonTintWalk_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemyEnergonAttack_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-44" y="14" width="28" height="29" rotation="0" type="1"/>
+    <rectangle x="-30" y="5" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="EnemyEnergonAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-39" y="14" width="17" height="29" rotation="0" type="1"/>
+    <rectangle x="-30" y="5" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="EnemyEnergonAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-39" y="14" width="17" height="29" rotation="0" type="1"/>
+    <rectangle x="-32" y="11" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="EnemyEnergonAttack_Sprite" index="3" duration="1" label="BeforeAttack">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-39" y="14" width="17" height="29" rotation="0" type="1"/>
+    <rectangle x="-32" y="14" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="EnemyEnergonAttack_Sprite" index="4" duration="1" label="Attack">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-44" y="14" width="28" height="29" rotation="0" type="1"/>
+    <rectangle x="-39" y="0" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="EnemyEnergonAttack_Sprite" index="5" duration="1" label="">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-44" y="14" width="28" height="29" rotation="0" type="1"/>
+    <rectangle x="-39" y="0" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="EnemyEnergonAttack_Sprite" index="6" duration="1" label="End">
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="2"/>
+    <rectangle x="-44" y="14" width="28" height="29" rotation="0" type="1"/>
+    <rectangle x="-37" y="2" width="18" height="17" rotation="0" type="1"/>
+    <rectangle x="-44" y="5" width="28" height="39" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemyEnergonTintAttack_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyEnergonTintAttack_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyEnergonTintAttack_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyEnergonTintAttack_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyEnergonTintAttack_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyEnergonTintAttack_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyEnergonTintAttack_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="EnergonDownSwordProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnergonDownSwordProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnergonDownSwordProjectile_Sprite" index="2" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnergonDownSwordProjectile_Sprite" index="3" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnergonDownSwordShield_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnergonDownSwordShield_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnergonDownSwordShield_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnergonDownSwordShield_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="EnergonSwordProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnergonSwordProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnergonSwordProjectile_Sprite" index="2" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnergonSwordProjectile_Sprite" index="3" duration="1" label="">
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="1"/>
+    <rectangle x="-12" y="-12" width="25" height="25" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnergonSwordShield_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnergonSwordShield_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnergonSwordShield_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnergonSwordShield_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="ArrowProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-26" y="-6" width="53" height="12" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySkeletonArcherLegsIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-40" y="2" width="35" height="37" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemySkeletonArcherAttack_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="4" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-13" y="-17" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemySkeletonArcherAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="4" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-13" y="-17" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySkeletonArcherAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="4" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-13" y="-17" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySkeletonArcherAttack_Sprite" index="3" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySkeletonArcherAttack_Sprite" index="4" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySkeletonArcherAttack_Sprite" index="5" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemySkeletonArcherAttack_Sprite" index="6" duration="1" label="">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemySkeletonArcherAttack_Sprite" index="7" duration="1" label="BeginAttack">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="EnemySkeletonArcherAttack_Sprite" index="8" duration="1" label="Attack">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="10" name="EnemySkeletonArcherAttack_Sprite" index="9" duration="1" label="EndAttack">
+    <rectangle x="-13" y="-30" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-2" y="-30" width="17" height="37" rotation="0" type="1"/>
+    <rectangle x="-8" y="-18" width="18" height="24" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemySkeletonArcherIdle_Sprite" index="0" duration="2" label="">
+    <rectangle x="-41" y="1" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-22" y="1" width="15" height="37" rotation="0" type="1"/>
+    <rectangle x="-40" y="14" width="34" height="23" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemySkeletonArcherIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-41" y="1" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-22" y="1" width="15" height="37" rotation="0" type="1"/>
+    <rectangle x="-40" y="14" width="34" height="23" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemySkeletonArcherIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-41" y="1" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-22" y="1" width="15" height="37" rotation="0" type="1"/>
+    <rectangle x="-40" y="14" width="34" height="23" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemySkeletonArcherIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-41" y="1" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-22" y="1" width="15" height="37" rotation="0" type="1"/>
+    <rectangle x="-40" y="14" width="34" height="23" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemySkeletonArcherIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-41" y="1" width="35" height="37" rotation="0" type="2"/>
+    <rectangle x="-22" y="1" width="15" height="37" rotation="0" type="1"/>
+    <rectangle x="-40" y="14" width="34" height="23" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyEyeballBossPupilFire_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyEyeballBossPupil_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyEyeballBossFire_Sprite" index="0" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyEyeballBossFire_Sprite" index="1" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyEyeballBossFire_Sprite" index="2" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyEyeballBossFire_Sprite" index="3" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyEyeballBossFire_Sprite" index="4" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyEyeballBossFire_Sprite" index="5" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyEyeballBossFire_Sprite" index="6" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyEyeballBossFire_Sprite" index="7" duration="1" label="">
+    <rectangle x="15" y="12" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="27" y="27" width="94" height="93" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyEyeballBossEye_Sprite" index="0" duration="1" label="">
+    <rectangle x="10" y="9" width="119" height="119" rotation="0" type="2"/>
+    <rectangle x="21" y="21" width="97" height="96" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyChickenRun_Sprite" index="0" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyChickenRun_Sprite" index="1" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyChickenRun_Sprite" index="2" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyChickenRun_Sprite" index="3" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyChickenRun_Sprite" index="4" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyChickenRun_Sprite" index="5" duration="1" label="">
+    <rectangle x="-15" y="3" width="13" height="20" rotation="0" type="0"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="2"/>
+    <rectangle x="-15" y="1" width="13" height="20" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyPlatformPlatform_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyPlatformPlatform_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyPlatformPlatform_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyPlatformPlatform_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyPlatformPlatform_Sprite" index="4" duration="1" label="">
+    <rectangle x="0" y="7" width="75" height="11" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="EnemyPlatformPlatform_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyPlatformPlatform_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyPlatformPlatform_Sprite" index="7" duration="1" label=""/>
+  <animation frame="9" name="EnemyPlatformPlatform_Sprite" index="8" duration="1" label=""/>
+  <animation frame="10" name="EnemyPlatformPlatform_Sprite" index="9" duration="1" label=""/>
+  <animation frame="1" name="EnemyPlatformButton_Sprite" index="0" duration="1" label="StartRetract">
+    <rectangle x="24" y="0" width="25" height="24" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyPlatformButton_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyPlatformButton_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyPlatformButton_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyPlatformButton_Sprite" index="4" duration="2" label="EndRetract"/>
+  <animation frame="7" name="EnemyPlatformButton_Sprite" index="5" duration="1" label="StartExtract"/>
+  <animation frame="8" name="EnemyPlatformButton_Sprite" index="6" duration="1" label=""/>
+  <animation frame="9" name="EnemyPlatformButton_Sprite" index="7" duration="1" label=""/>
+  <animation frame="10" name="EnemyPlatformButton_Sprite" index="8" duration="1" label="EndExtract">
+    <rectangle x="24" y="0" width="25" height="24" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="Log_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyHomingTurret_Sprite" index="0" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyHomingTurret_Sprite" index="1" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyHomingTurret_Sprite" index="2" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyHomingTurret_Sprite" index="3" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemyHomingTurret_Sprite" index="4" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemyHomingTurret_Sprite" index="5" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemyHomingTurret_Sprite" index="6" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemyHomingTurret_Sprite" index="7" duration="1" label="">
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="0"/>
+    <rectangle x="-36" y="0" width="36" height="31" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="HomingProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-26" y="-8" width="53" height="16" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="HomingProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-26" y="-8" width="53" height="16" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="PlantProjectileExplosion_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="PlantProjectileExplosion_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="PlantProjectileExplosion_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="PlantProjectileExplosion_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="PlantProjectileExplosion_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="PlantProjectileExplosion_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="PlantProjectileExplosion_Sprite" index="6" duration="1" label=""/>
+  <animation frame="1" name="Dummy_Sprite" index="0" duration="1" label="">
+    <rectangle x="-26" y="0" width="15" height="51" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="DummySad_Sprite" index="0" duration="1" label="">
+    <rectangle x="-30" y="0" width="16" height="52" rotation="-3.9536448352720255" type="2"/>
+  </animation>
+  <animation frame="2" name="DummySad_Sprite" index="1" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="DummySad_Sprite" index="2" duration="1" label="">
+    <rectangle x="-24" y="0" width="16" height="52" rotation="3.4827734949491296" type="2"/>
+  </animation>
+  <animation frame="4" name="DummySad_Sprite" index="3" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="DummySad_Sprite" index="4" duration="1" label="">
+    <rectangle x="-30" y="0" width="16" height="52" rotation="-3.9536448352720255" type="2"/>
+  </animation>
+  <animation frame="6" name="DummySad_Sprite" index="5" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="DummySad_Sprite" index="6" duration="1" label="">
+    <rectangle x="-24" y="0" width="16" height="52" rotation="3.4827734949491296" type="2"/>
+  </animation>
+  <animation frame="8" name="DummySad_Sprite" index="7" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="9" name="DummySad_Sprite" index="8" duration="1" label="">
+    <rectangle x="-30" y="0" width="16" height="52" rotation="-3.9536448352720255" type="2"/>
+  </animation>
+  <animation frame="10" name="DummySad_Sprite" index="9" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="11" name="DummySad_Sprite" index="10" duration="1" label="">
+    <rectangle x="-24" y="0" width="16" height="52" rotation="3.4827734949491296" type="2"/>
+  </animation>
+  <animation frame="12" name="DummySad_Sprite" index="11" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="13" name="DummySad_Sprite" index="12" duration="1" label="">
+    <rectangle x="-27" y="0" width="16" height="52" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="WoodChip_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyLastBossTeleport_Sprite" index="0" duration="1" label=""/>
+  <animation frame="1" name="EnemyLastBossSpell_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossSpell_Sprite" index="1" duration="1" label="">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossSpell_Sprite" index="2" duration="1" label="BeforeCast">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossSpell_Sprite" index="3" duration="1" label="Cast">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossSpell_Sprite" index="4" duration="1" label="">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossSpell_Sprite" index="5" duration="1" label="">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyLastBossSpell_Sprite" index="6" duration="1" label="">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyLastBossSpell_Sprite" index="7" duration="1" label="End">
+    <rectangle x="-104" y="29" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-87" y="6" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-106" y="28" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-100" y="29" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyLastBossRun_Sprite" index="0" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossRun_Sprite" index="1" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossRun_Sprite" index="2" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossRun_Sprite" index="3" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossRun_Sprite" index="4" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossRun_Sprite" index="5" duration="1" label="">
+    <rectangle x="-68" y="17" width="63" height="63" rotation="0" type="2"/>
+    <rectangle x="-46" y="0" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-68" y="16" width="63" height="67" rotation="0" type="0"/>
+    <rectangle x="-69" y="17" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyLastBossIdle_Sprite" index="0" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossIdle_Sprite" index="1" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossIdle_Sprite" index="2" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossIdle_Sprite" index="3" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossIdle_Sprite" index="4" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossIdle_Sprite" index="5" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyLastBossIdle_Sprite" index="6" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyLastBossIdle_Sprite" index="7" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="EnemyLastBossIdle_Sprite" index="8" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="10" name="EnemyLastBossIdle_Sprite" index="9" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="11" name="EnemyLastBossIdle_Sprite" index="10" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="12" name="EnemyLastBossIdle_Sprite" index="11" duration="1" label="">
+    <rectangle x="-70" y="26" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-53" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-72" y="24" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-67" y="26" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyLastBossDash_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-74" y="23" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-54" y="2" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-77" y="22" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-72" y="23" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossDash_Sprite" index="1" duration="1" label="DashStart">
+    <rectangle x="-75" y="23" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-50" y="7" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-77" y="22" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-72" y="23" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossDash_Sprite" index="2" duration="1" label="">
+    <rectangle x="-75" y="23" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-50" y="7" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-77" y="22" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-72" y="23" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossDash_Sprite" index="3" duration="1" label="DashEnd">
+    <rectangle x="-75" y="23" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-50" y="7" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-77" y="22" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-72" y="23" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossDash_Sprite" index="4" duration="1" label="End">
+    <rectangle x="-75" y="23" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-59" y="3" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-77" y="22" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-72" y="23" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyLastBossAttack_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossAttack_Sprite" index="1" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossAttack_Sprite" index="2" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossAttack_Sprite" index="3" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossAttack_Sprite" index="4" duration="1" label="BeforeAttack">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossAttack_Sprite" index="5" duration="1" label="Attack">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+    <rectangle x="-94" y="75" width="91" height="76" rotation="0" type="1"/>
+    <rectangle x="-87" y="27" width="51" height="50" rotation="0" type="1"/>
+    <rectangle x="-138" y="5" width="51" height="50" rotation="0" type="1"/>
+    <rectangle x="-160" y="18" width="51" height="50" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyLastBossAttack_Sprite" index="6" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyLastBossAttack_Sprite" index="7" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="9" name="EnemyLastBossAttack_Sprite" index="8" duration="1" label="">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="10" name="EnemyLastBossAttack_Sprite" index="9" duration="1" label="End">
+    <rectangle x="-151" y="85" width="67" height="63" rotation="0" type="2"/>
+    <rectangle x="-134" y="61" width="42" height="51" rotation="0" type="2"/>
+    <rectangle x="-153" y="85" width="69" height="67" rotation="0" type="0"/>
+    <rectangle x="-147" y="85" width="53" height="65" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="LastBossOrbProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="LastBossOrbProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="LastBossOrbProjectile_Sprite" index="2" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="LastBossOrbProjectile_Sprite" index="3" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="LastBossOrbProjectile_Sprite" index="4" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="LastBossOrbProjectile_Sprite" index="5" duration="1" label="">
+    <rectangle x="-7" y="-6" width="15" height="14" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="LastBossSpearProjectile_Sprite" index="0" duration="1" label="Before"/>
+  <animation frame="2" name="LastBossSpearProjectile_Sprite" index="1" duration="1" label="Start">
+    <rectangle x="-8" y="-36" width="18" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="LastBossSpearProjectile_Sprite" index="2" duration="1" label="">
+    <rectangle x="-8" y="-66" width="18" height="69" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="LastBossSpearProjectile_Sprite" index="3" duration="2" label="End">
+    <rectangle x="-8" y="-96" width="18" height="100" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="LastBossSpearProjectile_Sprite" index="4" duration="1" label="Retract">
+    <rectangle x="-8" y="-66" width="18" height="69" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="LastBossSpearProjectile_Sprite" index="5" duration="1" label="">
+    <rectangle x="-8" y="-36" width="18" height="39" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="LastBossSpearProjectile_Sprite" index="6" duration="1" label="RetractComplete"/>
+  <animation frame="1" name="LastBossSwordProjectile_Sprite" index="0" duration="1" label="">
+    <rectangle x="-36" y="-12" width="61" height="26" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="LastBossSwordProjectile_Sprite" index="1" duration="1" label="">
+    <rectangle x="-36" y="-12" width="61" height="26" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyStarburstIdleFace_Sprite" index="0" duration="5" label=""/>
+  <animation frame="6" name="EnemyStarburstIdleFace_Sprite" index="1" duration="1" label=""/>
+  <animation frame="7" name="EnemyStarburstIdleFace_Sprite" index="2" duration="1" label=""/>
+  <animation frame="8" name="EnemyStarburstIdleFace_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="EnemyStarburstIdleSpike_Sprite" index="0" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyStarburstIdleSpike_Sprite" index="1" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyStarburstIdleSpike_Sprite" index="2" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyStarburstIdleSpike_Sprite" index="3" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="5" name="EnemyStarburstIdleSpike_Sprite" index="4" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="6" name="EnemyStarburstIdleSpike_Sprite" index="5" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="7" name="EnemyStarburstIdleSpike_Sprite" index="6" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="8" name="EnemyStarburstIdleSpike_Sprite" index="7" duration="1" label="">
+    <rectangle x="-15" y="-5" width="32" height="9" rotation="0" type="1"/>
+    <rectangle x="-4" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-15" y="-16" width="32" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyStarburstAttackFace_Sprite" index="0" duration="2" label=""/>
+  <animation frame="3" name="EnemyStarburstAttackFace_Sprite" index="1" duration="1" label=""/>
+  <animation frame="1" name="EnemyStarburstAttackSpikes_Sprite" index="0" duration="1" label="">
+    <rectangle x="-16" y="-6" width="33" height="11" rotation="0" type="1"/>
+    <rectangle x="-5" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-16" y="-16" width="33" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyStarburstAttackSpikes_Sprite" index="1" duration="1" label="">
+    <rectangle x="-16" y="-6" width="33" height="11" rotation="0" type="1"/>
+    <rectangle x="-5" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-16" y="-16" width="33" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyStarburstAttackSpikes_Sprite" index="2" duration="1" label="">
+    <rectangle x="-16" y="-6" width="33" height="11" rotation="0" type="1"/>
+    <rectangle x="-5" y="-16" width="10" height="33" rotation="0" type="1"/>
+    <rectangle x="-16" y="-16" width="33" height="33" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyPortrait_Sprite" index="0" duration="1" label="">
+    <rectangle x="-18" y="-24" width="36" height="48" rotation="0" type="2"/>
+    <rectangle x="-15" y="-21" width="31" height="44" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyBlobBossIdleRim_Sprite" index="0" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyBlobBossIdleRim_Sprite" index="1" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyBlobBossIdleRim_Sprite" index="2" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyBlobBossIdleRim_Sprite" index="3" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyBlobBossIdleRim_Sprite" index="4" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyBlobBossIdleRim_Sprite" index="5" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyBlobBossIdleRim_Sprite" index="6" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="8" name="EnemyBlobBossIdleRim_Sprite" index="7" duration="1" label="">
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="2"/>
+    <rectangle x="6" y="7" width="134" height="75" rotation="0" type="0"/>
+    <rectangle x="15" y="33" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="34" y="20" width="77" height="35" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyBlobBossIdleCube_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyBlobBossIdleCube_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyBlobBossIdleCube_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyBlobBossIdleCube_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyBlobBossIdleCube_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyBlobBossIdleCube_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyBlobBossIdleCube_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyBlobBossIdleCube_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemyBlobBossIdleGel_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyBlobBossIdleGel_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyBlobBossIdleGel_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyBlobBossIdleGel_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyBlobBossIdleGel_Sprite" index="4" duration="1" label=""/>
+  <animation frame="6" name="EnemyBlobBossIdleGel_Sprite" index="5" duration="1" label=""/>
+  <animation frame="7" name="EnemyBlobBossIdleGel_Sprite" index="6" duration="1" label=""/>
+  <animation frame="8" name="EnemyBlobBossIdleGel_Sprite" index="7" duration="1" label=""/>
+  <animation frame="1" name="EnemyBlobBossJumpRim_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="2"/>
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="0"/>
+    <rectangle x="29" y="81" width="106" height="55" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyBlobBossJumpRim_Sprite" index="1" duration="1" label="">
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="2"/>
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="0"/>
+    <rectangle x="29" y="81" width="106" height="55" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyBlobBossJumpRim_Sprite" index="2" duration="1" label="">
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="2"/>
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="0"/>
+    <rectangle x="18" y="92" width="128" height="44" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyBlobBossJumpRim_Sprite" index="3" duration="1" label="BeforeJump">
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="2"/>
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="0"/>
+    <rectangle x="18" y="92" width="128" height="44" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyBlobBossJumpRim_Sprite" index="4" duration="1" label="Jump">
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="2"/>
+    <rectangle x="13" y="70" width="139" height="67" rotation="0" type="0"/>
+    <rectangle x="26" y="88" width="114" height="48" rotation="0" type="1"/>
+    <rectangle x="45" y="76" width="76" height="55" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="EnemyBlobBossJumpCube_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyBlobBossJumpCube_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyBlobBossJumpCube_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyBlobBossJumpCube_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyBlobBossJumpCube_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="EnemyBlobBossJumpGel_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyBlobBossJumpGel_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyBlobBossJumpGel_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyBlobBossJumpGel_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="EnemyBlobBossJumpGel_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="EnemyBlobBossAirRim_Sprite" index="0" duration="1" label="">
+    <rectangle x="44" y="40" width="77" height="72" rotation="0" type="1"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="0"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="2"/>
+  </animation>
+  <animation frame="2" name="EnemyBlobBossAirRim_Sprite" index="1" duration="1" label="">
+    <rectangle x="44" y="40" width="77" height="72" rotation="0" type="1"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="0"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="2"/>
+  </animation>
+  <animation frame="3" name="EnemyBlobBossAirRim_Sprite" index="2" duration="1" label="">
+    <rectangle x="44" y="40" width="77" height="58" rotation="0" type="1"/>
+    <rectangle x="56" y="13" width="52" height="112" rotation="0" type="1"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="0"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="2"/>
+  </animation>
+  <animation frame="4" name="EnemyBlobBossAirRim_Sprite" index="3" duration="1" label="">
+    <rectangle x="44" y="33" width="77" height="72" rotation="0" type="1"/>
+    <rectangle x="58" y="18" width="49" height="107" rotation="0" type="1"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="0"/>
+    <rectangle x="37" y="32" width="91" height="93" rotation="0" type="2"/>
+  </animation>
+  <animation frame="1" name="EnemyBlobBossAirCube_Sprite" index="0" duration="4" label=""/>
+  <animation frame="1" name="EnemyBlobBossAirGel_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="EnemyBlobBossAirGel_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="EnemyBlobBossAirGel_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="EnemyBlobBossAirGel_Sprite" index="3" duration="1" label=""/>
+  <animation frame="1" name="NinjaSmoke_Sprite" index="0" duration="1" label=""/>
+  <animation frame="2" name="NinjaSmoke_Sprite" index="1" duration="1" label=""/>
+  <animation frame="3" name="NinjaSmoke_Sprite" index="2" duration="1" label=""/>
+  <animation frame="4" name="NinjaSmoke_Sprite" index="3" duration="1" label=""/>
+  <animation frame="5" name="NinjaSmoke_Sprite" index="4" duration="1" label=""/>
+  <animation frame="1" name="EnemyLastBossDeath_Sprite" index="0" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossDeath_Sprite" index="1" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossDeath_Sprite" index="2" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossDeath_Sprite" index="3" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossDeath_Sprite" index="4" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossDeath_Sprite" index="5" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="7" name="EnemyLastBossDeath_Sprite" index="6" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="8" name="EnemyLastBossDeath_Sprite" index="7" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="9" name="EnemyLastBossDeath_Sprite" index="8" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="10" name="EnemyLastBossDeath_Sprite" index="9" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="11" name="EnemyLastBossDeath_Sprite" index="10" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="12" name="EnemyLastBossDeath_Sprite" index="11" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="13" name="EnemyLastBossDeath_Sprite" index="12" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="14" name="EnemyLastBossDeath_Sprite" index="13" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="15" name="EnemyLastBossDeath_Sprite" index="14" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="16" name="EnemyLastBossDeath_Sprite" index="15" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="17" name="EnemyLastBossDeath_Sprite" index="16" duration="1" label="">
+    <rectangle x="-113" y="35" width="51" height="51" rotation="0" type="0"/>
+  </animation>
+  <animation frame="1" name="EnemyLastBossSpell2_Sprite" index="0" duration="1" label="Start">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-76" y="85" width="61" height="84" rotation="0" type="2"/>
+    <rectangle x="-73" y="84" width="58" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="2" name="EnemyLastBossSpell2_Sprite" index="1" duration="1" label="">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-76" y="85" width="61" height="84" rotation="0" type="2"/>
+    <rectangle x="-73" y="84" width="58" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="3" name="EnemyLastBossSpell2_Sprite" index="2" duration="1" label="">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-84" y="74" width="68" height="94" rotation="0" type="2"/>
+    <rectangle x="-72" y="84" width="49" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="4" name="EnemyLastBossSpell2_Sprite" index="3" duration="1" label="BeforeCast">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-84" y="74" width="68" height="94" rotation="0" type="2"/>
+    <rectangle x="-72" y="84" width="49" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="5" name="EnemyLastBossSpell2_Sprite" index="4" duration="1" label="Cast">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-84" y="74" width="68" height="94" rotation="0" type="2"/>
+    <rectangle x="-72" y="84" width="49" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="6" name="EnemyLastBossSpell2_Sprite" index="5" duration="1" label="">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-84" y="74" width="68" height="94" rotation="0" type="2"/>
+    <rectangle x="-72" y="84" width="49" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="7" name="EnemyLastBossSpell2_Sprite" index="6" duration="1" label="End">
+    <rectangle x="-73" y="84" width="57" height="85" rotation="0" type="0"/>
+    <rectangle x="-84" y="74" width="68" height="94" rotation="0" type="2"/>
+    <rectangle x="-72" y="84" width="49" height="85" rotation="0" type="1"/>
+  </animation>
+  <animation frame="1" name="LastBossSwordVerticalProjectile_Sprite" index="0" duration="2" label="">
+    <rectangle x="-12" y="36" width="61" height="26" rotation="-90" type="1"/>
+  </animation>
+  <container name="EnemyShieldKnightIdle_Character" child="EnemyShieldKnightIdle_Sprite" childX="42.6" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightIdle_Character" child="EnemyShieldKnightIdleTrim_Sprite" childX="42.35" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightTurnOut_Character" child="EnemyShieldKnightTurnOut_Sprite" childX="42.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightTurnOut_Character" child="EnemyShieldKnightTurnOutTrim_Sprite" childX="42.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightTurnIn_Character" child="EnemyShieldKnightTurnIn_Sprite" childX="42.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightTurnIn_Character" child="EnemyShieldKnightTurnInTrim_Sprite" childX="42.5" childY="-56.15" childRotation="180"/>
+  <container name="EnemyShieldKnightWalk_Character" child="EnemyShieldKnightWalk_Sprite" childX="42.75" childY="-54.65" childRotation="180"/>
+  <container name="EnemyShieldKnightWalk_Character" child="EnemyShieldKnightWalkTrim_Sprite" childX="42.75" childY="-54.65" childRotation="180"/>
+  <container name="EnemySpikeTrap_Character" child="EnemySpikeTrap_Sprite" childX="-15" childY="-30" childRotation="0"/>
+  <container name="EnemySpark_Character" child="EnemySpark_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyNinjaThrow_Character" child="EnemyNinjaBodyThrow_Sprite" childX="-17.8" childY="-26.6" childRotation="0"/>
+  <container name="EnemyNinjaThrow_Character" child="EnemyNinjaHeadThrow_Sprite" childX="-17.8" childY="-26.6" childRotation="0"/>
+  <container name="EnemyNinjaRun_Character" child="EnemyNinjaBodyRun_Sprite" childX="-15.85" childY="-24.15" childRotation="0"/>
+  <container name="EnemyNinjaRun_Character" child="EnemyNinjaHeadRun_Sprite" childX="-15.85" childY="-24.15" childRotation="0"/>
+  <container name="EnemyNinjaIdle_Character" child="EnemyNinjaBodyIdle_Sprite" childX="-15.85" childY="-26.65" childRotation="0"/>
+  <container name="EnemyNinjaIdle_Character" child="EnemyNinjaHeadIdle_Sprite" childX="-15.85" childY="-26.65" childRotation="0"/>
+  <container name="EnemyNinjaAttack_Character" child="EnemyNinjaBodyAttack_Sprite" childX="-12.55" childY="-24" childRotation="0"/>
+  <container name="EnemyNinjaAttack_Character" child="EnemyNinjaHeadAttack_Sprite" childX="-12.55" childY="-24" childRotation="0"/>
+  <container name="EnemyPlantIdle_Character" child="EnemyPlantBodyIdle_Sprite" childX="-28.65" childY="-22" childRotation="0"/>
+  <container name="EnemyPlantIdle_Character" child="EnemyPlantHeadIdle_Sprite" childX="-28.65" childY="-22" childRotation="0"/>
+  <container name="EnemyPlantAttack_Character" child="EnemyPlantBodyAttack_Sprite" childX="-28.6" childY="-21.95" childRotation="0"/>
+  <container name="EnemyPlantAttack_Character" child="EnemyPlantHeadAttack_Sprite" childX="-28.6" childY="-21.95" childRotation="0"/>
+  <container name="EnemyEnergonIdle_Character" child="EnemyEnergonIdle_Sprite" childX="17.95" childY="-26" childRotation="180"/>
+  <container name="EnemyEnergonIdle_Character" child="EnemyEnergonTintIdle_Sprite" childX="17.95" childY="-26" childRotation="180"/>
+  <container name="EnemyEnergonWalk_Character" child="EnemyEnergonWalk_Sprite" childX="17.95" childY="-24" childRotation="180"/>
+  <container name="EnemyEnergonWalk_Character" child="EnemyEnergonTintWalk_Sprite" childX="17.95" childY="-24" childRotation="180"/>
+  <container name="EnemyEnergonAttack_Character" child="EnemyEnergonAttack_Sprite" childX="28.95" childY="-28" childRotation="180"/>
+  <container name="EnemyEnergonAttack_Character" child="EnemyEnergonTintAttack_Sprite" childX="28.95" childY="-28" childRotation="180"/>
+  <container name="EnemySkeletonArcherAttack_Character" child="EnemySkeletonArcherLegsIdle_Sprite" childX="25.75" childY="-26.6" childRotation="180"/>
+  <container name="EnemySkeletonArcherAttack_Character" child="EnemySkeletonArcherAttack_Sprite" childX="-0.25" childY="5.1" childRotation="180"/>
+  <container name="EnemySkeletonArcherIdle_Character" child="EnemySkeletonArcherLegsIdle_Sprite" childX="25.452777099609374" childY="-26.64796676635742" childRotation="180"/>
+  <container name="EnemySkeletonArcherIdle_Character" child="EnemySkeletonArcherIdle_Sprite" childX="26.43931884765625" childY="-26.897947692871092" childRotation="180"/>
+  <container name="EnemyEyeballBossFire_Character" child="EnemyEyeballBossFire_Sprite" childX="-71.99951171875" childY="-71.99951171875" childRotation="0"/>
+  <container name="EnemyEyeballBossEye_Character" child="EnemyEyeballBossEye_Sprite" childX="-67.49954223632813" childY="-67.49954223632813" childRotation="0"/>
+  <container name="EnemyChickenRun_Character" child="EnemyChickenRun_Sprite" childX="8.755233764648438" childY="-12.610128021240234" childRotation="180"/>
+  <container name="EnemyPlatform_Character" child="EnemyPlatformPlatform_Sprite" childX="-36.78740005493164" childY="-12.708255767822266" childRotation="0"/>
+  <container name="EnemyPlatform_Character" child="EnemyPlatformButton_Sprite" childX="-36.78740005493164" childY="-12.708255767822266" childRotation="0"/>
+  <container name="EnemyHomingTurret_Character" child="EnemyHomingTurret_Sprite" childX="18.3" childY="-13.75" childRotation="180"/>
+  <container name="Dummy_Character" child="Dummy_Sprite" childX="20" childY="-52" childRotation="180"/>
+  <container name="DummySad_Character" child="DummySad_Sprite" childX="20" childY="-52" childRotation="180"/>
+  <container name="EnemyLastBossTeleport_Character" child="EnemyLastBossTeleport_Sprite" childX="53.6" childY="-62.9" childRotation="180"/>
+  <container name="EnemyLastBossSpell_Character" child="EnemyLastBossSpell_Sprite" childX="64.85" childY="-62.9" childRotation="180"/>
+  <container name="EnemyLastBossRun_Character" child="EnemyLastBossRun_Sprite" childX="38" childY="-49.85" childRotation="180"/>
+  <container name="EnemyLastBossIdle_Character" child="EnemyLastBossIdle_Sprite" childX="36.75" childY="-58.7" childRotation="180"/>
+  <container name="EnemyLastBossDash_Character" child="EnemyLastBossDash_Sprite" childX="41" childY="-56.7" childRotation="180"/>
+  <container name="EnemyLastBossAttack_Character" child="EnemyLastBossAttack_Sprite" childX="117.8" childY="-118.9" childRotation="180"/>
+  <container name="EnemyStarburstIdle_Character" child="EnemyStarburstIdleFace_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyStarburstIdle_Character" child="EnemyStarburstIdleSpike_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyStarburstAttack_Character" child="EnemyStarburstAttackFace_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyStarburstAttack_Character" child="EnemyStarburstAttackSpikes_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyPortrait_Character" child="EnemyPortrait_Sprite" childX="0" childY="0" childRotation="0"/>
+  <container name="EnemyBlobBossIdle_Character" child="EnemyBlobBossIdleRim_Sprite" childX="-71.39968872070313" childY="-47.57073974609375" childRotation="0"/>
+  <container name="EnemyBlobBossIdle_Character" child="EnemyBlobBossIdleCube_Sprite" childX="-12.984943389892578" childY="-9.059427642822266" childRotation="0"/>
+  <container name="EnemyBlobBossIdle_Character" child="EnemyBlobBossIdleGel_Sprite" childX="-71.39968872070313" childY="-47.57073974609375" childRotation="0"/>
+  <container name="EnemyBlobBossJump_Character" child="EnemyBlobBossJumpRim_Sprite" childX="-81.54964447021484" childY="-102.89955139160156" childRotation="0"/>
+  <container name="EnemyBlobBossJump_Character" child="EnemyBlobBossJumpCube_Sprite" childX="-13.054943084716795" childY="-8.329963684082031" childRotation="0"/>
+  <container name="EnemyBlobBossJump_Character" child="EnemyBlobBossJumpGel_Sprite" childX="-81.54964447021484" childY="-102.89955139160156" childRotation="0"/>
+  <container name="EnemyBlobBossAir_Character" child="EnemyBlobBossAirRim_Sprite" childX="-81.51464462280273" childY="-95.89958190917969" childRotation="0"/>
+  <container name="EnemyBlobBossAir_Character" child="EnemyBlobBossAirCube_Sprite" childX="-13.369941711425783" childY="-25.689888000488285" childRotation="0"/>
+  <container name="EnemyBlobBossAir_Character" child="EnemyBlobBossAirGel_Sprite" childX="-81.51464462280273" childY="-95.89958190917969" childRotation="0"/>
+  <container name="EnemyLastBossDeath_Character" child="EnemyLastBossDeath_Sprite" childX="90.6" childY="-54.9" childRotation="180"/>
+  <container name="EnemyLastBossSpell2_Character" child="EnemyLastBossSpell2_Sprite" childX="41.75" childY="-136.8" childRotation="180"/>
+</xml>

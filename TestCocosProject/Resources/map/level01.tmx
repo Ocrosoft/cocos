@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="20" tilewidth="32" tileheight="32" nextobjectid="2">
+ <tileset firstgid="1" name="ground" tilewidth="32" tileheight="32" tilecount="117" columns="13">
+  <image source="ground.png" width="420" height="316"/>
+ </tileset>
+ <tileset firstgid="118" name="objects" tilewidth="32" tileheight="32" tilecount="208" columns="16">
+  <image source="objects.png" width="531" height="425"/>
+  <tile id="21">
+   <properties>
+    <property name="winn" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="326" name="meta_tiles" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="meta_tiles.png" width="67" height="34"/>
+  <tile id="0">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="star" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2rENwCAMBVHvkBXIJClgALL/KnEdUaKALle8hoYvXesaEfWlD96+0hb+TdzcN3NvsIG0+UglnekSjn3Z7MtmXzb7stmXzb5s9mWzL5t92ezLZl82+7LZl82+bPZlW31foH/db2iuB3C5gTA=
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="1" name="PlayerPoint" x="93" y="96" width="30" height="31"/>
+ </objectgroup>
+ <layer name="barrier" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmUdSBDEMRXvIbMlsyWwJF2DgYoQLEC5AuADhfvxFL9uWbL5leehX9as3U1YoSVZ5us6WuUnXzUML0OLE2HgEr361xhpytw5tQJuO8ujVL88sIU/L0Aq02udsD9996AA6dJRHr35ZcwvdQffQg/DbLeRpG9qBdvucneF7Dl1Al4E8am0M1U/uWZJfKXGz0MTH5hF6gp6hF+G3R/DpGDqBTnv/rvCdQtfQTcBnrY2h+sk9S/IrJe4QqTWiiY/NK/QGvUMflW0M1U/uWSyfYj2XWiOa+Nh8Ql/QN/TTgA3WWdpzYj1n0RulqHFXeCTWcxa9UYoad0WMGvvQLBOq21p5ZuxDreF932bS8l2XS+oMZfQeY+/MoeW7LpfUfVvTe9K7LWPv/K+Uvts0vcd6t9XUHiteaVZ42c1K322a3rN8t5Xi1f4HJM0Kxtxi4GGH0Lwns5Di1c4SaVaUnlvaXcPDDqF5T2YhxcuaJaXn1rhr5GE5S/5iq8a78ixgOUssbY2MhPgFjnGDgQ==
+  </data>
+ </layer>
+ <layer name="meta" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmEEOhCAMRZ3Ljfe/0YSFG2MGir+/v9CXdKe08BoQj6PYhe+nYrXw5rzlYOcfRbUuNpZ1aG6vsLxvzYGot/dclP/e/NBY5+np96l/Zsdi+J1dO6ZjRh/P7BGIsZA1oWrZ3S9rLMSekv2MZ58VqqzoN+Ks+EfmtVTlyW/UOu/qV/17O3veSKx7KPtOgOy9Hf020H5R90a181sB7x5F/osYgXWXvXIx8rxhNb9v60HtFSrzVuizjH4b0X5HzqHy61OLt9/61phDqdd6RPi911yRP4q1+QE+ipX7
+  </data>
+ </layer>
+ <layer name="win" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0QEJACAQwMDvb2lTiDruEgw2A8Br1u0AjvK3zd82f9v8bfO3zd82f9v8bfO3zd82f9v8bfO3zd82f+FvGxBVCLE=
+  </data>
+ </layer>
+</map>

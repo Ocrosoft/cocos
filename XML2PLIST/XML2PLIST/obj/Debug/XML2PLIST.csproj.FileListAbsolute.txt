@@ -1,0 +1,18 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\bin\Debug\XML2PLIST.exe.config
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\bin\Debug\XML2PLIST.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\bin\Debug\XML2PLIST.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.csprojResolveAssemblyReference.cache
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.Form1.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.Properties.Resources.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.csproj.GenerateResource.Cache
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\XML2PLIST\obj\Debug\XML2PLIST.pdb
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\bin\Debug\XML2PLIST.exe.config
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.exe
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.pdb
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\bin\Debug\XML2PLIST.exe
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\bin\Debug\XML2PLIST.pdb
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.csprojResolveAssemblyReference.cache
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.Form1.resources
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.Properties.Resources.resources
+C:\Users\qazws\OneDrive\C#Proj\XML2PLIST\XML2PLIST\obj\Debug\XML2PLIST.csproj.GenerateResource.Cache

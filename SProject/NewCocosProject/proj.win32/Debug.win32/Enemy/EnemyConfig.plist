@@ -1,0 +1,5 @@
+[
+{"type":0, "attack":15, "health":12, "model":"FinalAnimation_enemy1", "Idle":"Idle", "Bullet":"FireBall", "Attack":"Spell", "BulletEX":"FireBallExplosion", "Die":"Die", "fly":1, "Step":50},
+{"type":1, "attack":15, "health":12, "model":"FinalAnimation_enemy2", "Idle":"Idle", "Bullet":"", "Attack":"Attack", "BulletEX":"", "Die":"Die", "fly":0, "Step":10},
+{"type":999, "Gold":-1, "health":1, "model":"FinalAnimation_item999", "Idle":"Idle", "Die":"Break", "item":-1}
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>C:\Users\qazws\OneDrive\CocosProj\FinalAnimation\FinalAnimation_item999</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>C:\Users\qazws\OneDrive\CocosProj\FinalAnimation\FinalAnimation_item999\Resources</Resources>
+  <Name>FinalAnimation_item999</Name>
+  <JsonFileName>FinalAnimation_item999.json</JsonFileName>
+  <JsonFolder>C:\Users\qazws\OneDrive\CocosProj\FinalAnimation\FinalAnimation_item999\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>C:\Users\qazws\OneDrive\CocosProj\FinalAnimation\FinalAnimation_item999\FinalAnimation_item999.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList>
+    <string>castleTerrainSpritesheet.plist</string>
+  </ResourceFileList>
+  <bBatchImage>true</bBatchImage>
+</AnimationProject>

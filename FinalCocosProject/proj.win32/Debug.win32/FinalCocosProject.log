@@ -1,0 +1,8 @@
+﻿  Player.cpp
+  TollgateScene.cpp
+c:\users\qazws\onedrive\cocosproj\finalcocosproject\classes\tollgatescene.cpp(34): warning C4996: 'cocos2d::SpriteFrameCache::sharedSpriteFrameCache': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccspriteframecache.h(99): note: 参见“cocos2d::SpriteFrameCache::sharedSpriteFrameCache”的声明
+  60 File(s) copied
+  FinalCocosProject.vcxproj -> C:\Users\qazws\OneDrive\CocosProj\FinalCocosProject\proj.win32\Debug.win32\FinalCocosProject.exe
+  C:\Users\qazws\OneDrive\CocosProj\FinalCocosProject\Resources\titleScreen3Spritesheet.plist -> C:\Users\qazws\OneDrive\CocosProj\FinalCocosProject\proj.win32\Debug.win32\titleScreen3Spritesheet.plist
+  1 File(s) copied
